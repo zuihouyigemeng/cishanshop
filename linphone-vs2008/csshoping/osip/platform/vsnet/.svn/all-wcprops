@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/osip/platform/vsnet
+END
+osipparser2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/osip/platform/vsnet/osipparser2.vcproj
+END
+osip2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/platform/vsnet/osip2.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/osip/platform/vsnet/Makefile.in
+END
+osip.sln
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/osip/platform/vsnet/osip.sln
+END
+osipparser2.def
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/osip/platform/vsnet/osipparser2.def
+END
+osip2.def
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/osip/platform/vsnet/osip2.def
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/osip/platform/vsnet/Makefile.am
+END

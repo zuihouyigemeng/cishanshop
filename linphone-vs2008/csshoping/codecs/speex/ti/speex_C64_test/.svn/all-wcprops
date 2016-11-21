@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/speex/ti/speex_C64_test
+END
+speex_C64_test.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/speex/ti/speex_C64_test/speex_C64_test.cmd
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/codecs/speex/ti/speex_C64_test/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/codecs/speex/ti/speex_C64_test/Makefile.am
+END
+speex_C64_test.pjt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/speex/ti/speex_C64_test/speex_C64_test.pjt
+END

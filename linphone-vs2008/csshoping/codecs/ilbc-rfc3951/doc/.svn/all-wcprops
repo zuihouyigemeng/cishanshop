@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/doc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/doc/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/doc/Makefile.am
+END
+rfc3951.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/doc/rfc3951.txt
+END
+extract-cfile.awk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/doc/extract-cfile.awk
+END

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/osip/src/osipparser2
+END
+osip_proxy_authentication_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_proxy_authentication_info.c
+END
+osip_cseq.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_cseq.c
+END
+osip_record_route.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_record_route.c
+END
+osip_body.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_body.c
+END
+osip_route.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_route.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/Makefile.am
+END
+osip_uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_uri.c
+END
+osip_accept.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_accept.c
+END
+osip_authorization.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_authorization.c
+END
+osip_proxy_authorization.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_proxy_authorization.c
+END
+osip_accept_language.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_accept_language.c
+END
+osip_error_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_error_info.c
+END
+osip_accept_encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_accept_encoding.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/Makefile.in
+END
+sdp_accessor.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/sdp_accessor.c
+END
+osip_message_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_message_parse.c
+END
+osip_message_to_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_message_to_str.c
+END
+osip_via.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_via.c
+END
+osip_proxy_authenticate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_proxy_authenticate.c
+END
+osip_alert_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_alert_info.c
+END
+osip_port.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_port.c
+END
+osip_call_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_call_info.c
+END
+osip_contact.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_contact.c
+END
+osip_mime_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_mime_version.c
+END
+osip_content_disposition.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_content_disposition.c
+END
+sdp_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/sdp_message.c
+END
+osip_from.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_from.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/parser.h
+END
+osip_parser_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_parser_cfg.c
+END
+osip_content_type.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_content_type.c
+END
+osip_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_list.c
+END
+osip_content_length.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_content_length.c
+END
+osip_allow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_allow.c
+END
+osip_content_encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_content_encoding.c
+END
+osip_www_authenticate.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_www_authenticate.c
+END
+osip_to.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_to.c
+END
+osip_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_message.c
+END
+osip_call_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_call_id.c
+END
+osip_md5c.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_md5c.c
+END
+osip_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_header.c
+END
+osip_authentication_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/osip/src/osipparser2/osip_authentication_info.c
+END

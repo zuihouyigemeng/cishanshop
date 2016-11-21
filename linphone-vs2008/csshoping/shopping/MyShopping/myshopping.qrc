@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/MyShopping">
+        <file>btnbg.jpg</file>
+        <file>anniu_1.png</file>
+        <file>anniu_2.png</file>
+        <file>anniu_3.png</file>
+        <file>bg.png</file>
+        <file>yuyue.png</file>
+        <file>shangchuan.png</file>
+        <file>dingdan.png</file>
+        <file>peisong.png</file>
+        <file>tubiao.png</file>
+        <file>calling_1.jpg</file>
+        <file>calling_2.jpg</file>
+        <file>calling_1.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/Makefile.in
+END
+eX_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_setup.h
+END
+eX_subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_subscribe.h
+END
+eX_refer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_refer.h
+END
+eX_register.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_register.h
+END
+eX_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_message.h
+END
+eX_publish.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_publish.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/Makefile.am
+END
+eXosip.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eXosip.h
+END
+eX_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_options.h
+END
+eX_call.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/eXosip/include/eXosip2/eX_call.h
+END

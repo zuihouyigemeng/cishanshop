@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/platform/wince
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/platform/wince/Makefile.in
+END
+eXosip2.def
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/platform/wince/eXosip2.def
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/platform/wince/Makefile.am
+END
+sip_reg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/eXosip/platform/wince/sip_reg.vcproj
+END
+eXosip2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/eXosip/platform/wince/eXosip2.vcproj
+END

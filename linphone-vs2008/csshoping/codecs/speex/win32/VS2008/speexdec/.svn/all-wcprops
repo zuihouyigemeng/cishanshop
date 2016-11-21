@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2008/speexdec
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2008/speexdec/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2008/speexdec/Makefile.in
+END
+speexdec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2008/speexdec/speexdec.vcproj
+END

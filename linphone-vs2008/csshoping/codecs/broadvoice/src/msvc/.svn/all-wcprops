@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc
+END
+tgmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/tgmath.h
+END
+broadvoice.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/broadvoice.def
+END
+vc8proj.head
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/vc8proj.head
+END
+vc9proj.head
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/vc9proj.head
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/unistd.h
+END
+vc8proj.foot
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/vc8proj.foot
+END
+vc9proj.foot
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/vc9proj.foot
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/gettimeofday.c
+END
+msvcproj.head
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/msvcproj.head
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/inttypes.h
+END
+msvcproj.foot
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/msvc/msvcproj.foot
+END

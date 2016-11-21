@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ChangeLog
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ltmain.sh
+END
+configure-iphone
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/configure-iphone
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/autogen.sh
+END

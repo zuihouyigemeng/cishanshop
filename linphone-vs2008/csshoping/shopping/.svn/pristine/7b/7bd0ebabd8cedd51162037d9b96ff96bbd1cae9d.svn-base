@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order-list><order><orderId>h000001444C</orderId><buyer>公司调试0928</buyer><buyDate>2015-01-05 10:59</buyDate><bizDispatch>送货到门</bizDispatch><bizPay>网银</bizPay><distance>NN</distance><ps_address>NN</ps_address><ps_datetime>NN</ps_datetime><SIPnum>20140002</SIPnum><ps_name>aric4444</ps_name><orderNum>H20150105000004</orderNum><from>10</from><orderStatus>03</orderStatus><orderMode>01</orderMode><productsDetail><homeBuyId>h000001444C</homeBuyId><product>暂无</product><unit>9.5000</unit><quantity>1</quantity></productsDetail><productsDetail><homeBuyId>h000001444C</homeBuyId><product>暂无</product><unit>2.2000</unit><quantity>1</quantity></productsDetail></order><orderNums>1</orderNums></order-list>
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/platform/vsnet-ilbc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/platform/vsnet-ilbc/Makefile.in
+END
+libilbc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/platform/vsnet-ilbc/libilbc.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/platform/vsnet-ilbc/Makefile.am
+END
+libilbc.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/platform/vsnet-ilbc/libilbc.sln
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/platform/vsnet-ilbc/ReadMe.txt
+END

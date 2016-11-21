@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/eXosip/scripts
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/eXosip/scripts/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/eXosip/scripts/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/eXosip/scripts/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/eXosip/scripts/install-sh
+END
+aclocal-include.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/scripts/aclocal-include.m4
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/eXosip/scripts/mkinstalldirs
+END
+acx_pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/eXosip/scripts/acx_pthread.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/eXosip/scripts/Makefile.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/scripts/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/scripts/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/eXosip/scripts/Makefile.am
+END

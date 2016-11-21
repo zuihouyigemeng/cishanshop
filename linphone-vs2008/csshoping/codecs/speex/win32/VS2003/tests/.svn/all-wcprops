@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests
+END
+testenc_wb.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/testenc_wb.vcproj
+END
+testecho.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/testecho.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/Makefile.in
+END
+testenc_uwb.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/testenc_uwb.vcproj
+END
+testenc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/testenc.vcproj
+END
+testdenoise.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/testdenoise.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/Makefile.am
+END
+testresample.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/tests/testresample.vcproj
+END

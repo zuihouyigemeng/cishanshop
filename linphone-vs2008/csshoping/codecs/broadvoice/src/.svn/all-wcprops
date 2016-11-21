@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src
+END
+libbroadvoice.2005.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/libbroadvoice.2005.sln
+END
+libbroadvoice.2008.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/libbroadvoice.2008.sln
+END
+libbroadvoice.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/libbroadvoice.dsp
+END
+libbroadvoice.2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/libbroadvoice.2005.vcproj
+END
+libbroadvoice.2008.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/libbroadvoice.2008.vcproj
+END
+broadvoice.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice.dsp
+END
+bitpack32.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/bitpack32.c
+END
+bitpack16.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/bitpack16.c
+END
+broadvoice.sln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice.sln
+END
+broadvoice.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice.h.in
+END
+bitpack32.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/bitpack32.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/Makefile.am
+END
+bitpack16.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/bitpack16.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/bitstream.c
+END
+broadvoice.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice.vcproj
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/bitstream.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/Makefile.in
+END

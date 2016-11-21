@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/oRTP/build/winmob
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/oRTP/build/winmob/Makefile.am
+END
+oRTP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/oRTP/build/winmob/oRTP.sln
+END
+ortp.def
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/oRTP/build/winmob/ortp.def
+END
+oRTP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/oRTP/build/winmob/oRTP.vcproj
+END

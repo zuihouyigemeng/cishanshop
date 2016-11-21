@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/osip/src/osip2
+END
+port_condv.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/osip/src/osip2/port_condv.c
+END
+nist.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/osip/src/osip2/nist.c
+END
+osip_transaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/osip/src/osip2/osip_transaction.c
+END
+ict.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/osip/src/osip2/ict.c
+END
+nist_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/osip/src/osip2/nist_fsm.c
+END
+ict_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/osip/src/osip2/ict_fsm.c
+END
+port_fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/osip/src/osip2/port_fifo.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/osip/src/osip2/Makefile.am
+END
+osip_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/osip/src/osip2/osip_time.c
+END
+osip_dialog.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/osip/src/osip2/osip_dialog.c
+END
+port_sema.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/osip/src/osip2/port_sema.c
+END
+fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/osip/src/osip2/fsm.h
+END
+nict.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/osip/src/osip2/nict.c
+END
+ist.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/osip/src/osip2/ist.c
+END
+fsm_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/osip/src/osip2/fsm_misc.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/osip/src/osip2/Makefile.in
+END
+xixt.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/osip/src/osip2/xixt.h
+END
+nict_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/osip/src/osip2/nict_fsm.c
+END
+ist_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/osip/src/osip2/ist_fsm.c
+END
+osip.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/osip/src/osip2/osip.c
+END
+port_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/osip/src/osip2/port_thread.c
+END
+osip_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/osip/src/osip2/osip_event.c
+END

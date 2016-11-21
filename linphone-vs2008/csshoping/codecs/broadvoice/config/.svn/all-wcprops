@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config
+END
+ax_misaligned_access_fails.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/ax_misaligned_access_fails.m4
+END
+ax_fixed_point_machine.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/ax_fixed_point_machine.m4
+END
+ax_check_real_file.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/ax_check_real_file.m4
+END
+ax_check_export_capability.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/ax_check_export_capability.m4
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/missing
+END
+ax_c99_features.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/ax_c99_features.m4
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/install-sh
+END
+ax_compiler_vendor.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config/ax_compiler_vendor.m4
+END

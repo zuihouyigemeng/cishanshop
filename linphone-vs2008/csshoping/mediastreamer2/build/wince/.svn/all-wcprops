@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/mediastreamer2/build/wince
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/mediastreamer2/build/wince/Makefile.am
+END
+alldescs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/mediastreamer2/build/wince/alldescs.h
+END
+mediastreamer2.def
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/mediastreamer2/build/wince/mediastreamer2.def
+END
+mediastreamer2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/mediastreamer2/build/wince/mediastreamer2.vcproj
+END

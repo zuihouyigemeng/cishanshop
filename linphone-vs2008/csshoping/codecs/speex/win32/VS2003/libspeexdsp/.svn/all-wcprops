@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/libspeexdsp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/libspeexdsp/Makefile.in
+END
+libspeexdsp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/libspeexdsp/libspeexdsp.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2003/libspeexdsp/Makefile.am
+END

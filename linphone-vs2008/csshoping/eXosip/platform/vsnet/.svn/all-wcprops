@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/platform/vsnet
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/platform/vsnet/Makefile.in
+END
+eXosip.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/eXosip/platform/vsnet/eXosip.sln
+END
+eXosip2.def
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/platform/vsnet/eXosip2.def
+END
+eXosip.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/eXosip/platform/vsnet/eXosip.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/platform/vsnet/Makefile.am
+END

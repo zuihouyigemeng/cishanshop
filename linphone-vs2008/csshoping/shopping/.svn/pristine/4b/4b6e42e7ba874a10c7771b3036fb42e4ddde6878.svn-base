@@ -1,0 +1,1651 @@
+/********************************************************************************
+** Form generated from reading UI file 'shopsubmit.ui'
+**
+** Created: Wed Apr 29 09:00:01 2015
+**      by: Qt User Interface Compiler version 4.7.0
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_SHOPSUBMIT_H
+#define UI_SHOPSUBMIT_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QComboBox>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QLineEdit>
+#include <QtGui/QPushButton>
+#include <QtGui/QSpacerItem>
+#include <QtGui/QStackedWidget>
+#include <QtGui/QTableWidget>
+#include <QtGui/QTextEdit>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_shopsubmit
+{
+public:
+    QVBoxLayout *verticalLayout_3;
+    QHBoxLayout *horizontalLayout;
+    QPushButton *manageBtn;
+    QSpacerItem *horizontalSpacer_4;
+    QSpacerItem *horizontalSpacer;
+    QPushButton *addClassBtn;
+    QPushButton *xgClassBtn;
+    QPushButton *addProductBtn;
+    QPushButton *xgProductBtn;
+    QStackedWidget *stackedWidget;
+    QWidget *page;
+    QVBoxLayout *verticalLayout;
+    QLabel *label_7;
+    QTableWidget *tableWidgetClass;
+    QLabel *label_8;
+    QTableWidget *tableWidgetProduct;
+    QHBoxLayout *horizontalLayout_2;
+    QLabel *countdownLabel;
+    QSpacerItem *horizontalSpacer_5;
+    QLabel *label_2;
+    QLineEdit *purchaseLE;
+    QLabel *label;
+    QComboBox *comboproduct;
+    QPushButton *productModeBtn;
+    QWidget *page_2;
+    QVBoxLayout *verticalLayout_2;
+    QHBoxLayout *horizontalLayout_26;
+    QSpacerItem *horizontalSpacer_73;
+    QLabel *label_3;
+    QSpacerItem *horizontalSpacer_74;
+    QHBoxLayout *horizontalLayout_3;
+    QSpacerItem *horizontalSpacer_27;
+    QLabel *label_14;
+    QLineEdit *lineEdit_8;
+    QSpacerItem *horizontalSpacer_8;
+    QLabel *label_20;
+    QLineEdit *lineEdit_14;
+    QSpacerItem *horizontalSpacer_7;
+    QHBoxLayout *horizontalLayout_4;
+    QSpacerItem *horizontalSpacer_9;
+    QLabel *label_15;
+    QComboBox *comboBox;
+    QSpacerItem *horizontalSpacer_10;
+    QLabel *label_21;
+    QLineEdit *lineEdit_15;
+    QSpacerItem *horizontalSpacer_11;
+    QHBoxLayout *horizontalLayout_5;
+    QSpacerItem *horizontalSpacer_12;
+    QLabel *label_16;
+    QLineEdit *lineEdit_10;
+    QSpacerItem *horizontalSpacer_13;
+    QLabel *label_22;
+    QLineEdit *lineEdit_16;
+    QSpacerItem *horizontalSpacer_14;
+    QHBoxLayout *horizontalLayout_6;
+    QSpacerItem *horizontalSpacer_17;
+    QLabel *label_17;
+    QLineEdit *lineEdit_11;
+    QSpacerItem *horizontalSpacer_16;
+    QLabel *label_23;
+    QLineEdit *lineEdit_17;
+    QSpacerItem *horizontalSpacer_15;
+    QHBoxLayout *horizontalLayout_7;
+    QSpacerItem *horizontalSpacer_19;
+    QLabel *label_18;
+    QLineEdit *lineEdit_12;
+    QSpacerItem *horizontalSpacer_20;
+    QLabel *label_24;
+    QLineEdit *lineEdit_18;
+    QSpacerItem *horizontalSpacer_18;
+    QHBoxLayout *horizontalLayout_8;
+    QSpacerItem *horizontalSpacer_21;
+    QLabel *label_28;
+    QLineEdit *lineEdit_13;
+    QSpacerItem *horizontalSpacer_22;
+    QLabel *label_43;
+    QLineEdit *lineEdit_21;
+    QSpacerItem *horizontalSpacer_24;
+    QHBoxLayout *horizontalLayout_9;
+    QSpacerItem *horizontalSpacer_6;
+    QLabel *label_44;
+    QLineEdit *lineEdit_22;
+    QSpacerItem *horizontalSpacer_28;
+    QLabel *label_47;
+    QLineEdit *lineEdit_25;
+    QSpacerItem *horizontalSpacer_32;
+    QHBoxLayout *horizontalLayout_10;
+    QSpacerItem *horizontalSpacer_23;
+    QLabel *label_45;
+    QLineEdit *lineEdit_23;
+    QSpacerItem *horizontalSpacer_26;
+    QLabel *label_46;
+    QLineEdit *lineEdit_24;
+    QSpacerItem *horizontalSpacer_25;
+    QHBoxLayout *horizontalLayout_11;
+    QSpacerItem *horizontalSpacer_80;
+    QSpacerItem *horizontalSpacer_29;
+    QSpacerItem *horizontalSpacer_2;
+    QLabel *label_26;
+    QLineEdit *lineEdit_20;
+    QSpacerItem *horizontalSpacer_77;
+    QPushButton *smallpicBtn;
+    QPushButton *smallpicBtn_2;
+    QSpacerItem *horizontalSpacer_35;
+    QSpacerItem *horizontalSpacer_87;
+    QSpacerItem *horizontalSpacer_45;
+    QSpacerItem *horizontalSpacer_49;
+    QSpacerItem *horizontalSpacer_85;
+    QSpacerItem *horizontalSpacer_30;
+    QHBoxLayout *horizontalLayout_12;
+    QSpacerItem *horizontalSpacer_31;
+    QSpacerItem *horizontalSpacer_42;
+    QSpacerItem *horizontalSpacer_43;
+    QLabel *label_25;
+    QLineEdit *lineEdit_19;
+    QSpacerItem *horizontalSpacer_36;
+    QPushButton *bigpicBtn;
+    QPushButton *bigpicBtn_2;
+    QSpacerItem *horizontalSpacer_41;
+    QSpacerItem *horizontalSpacer_88;
+    QSpacerItem *horizontalSpacer_48;
+    QSpacerItem *horizontalSpacer_50;
+    QSpacerItem *horizontalSpacer_86;
+    QSpacerItem *horizontalSpacer_34;
+    QHBoxLayout *horizontalLayout_13;
+    QSpacerItem *horizontalSpacer_38;
+    QLabel *label_19;
+    QTextEdit *textEdit;
+    QSpacerItem *horizontalSpacer_83;
+    QSpacerItem *horizontalSpacer_3;
+    QSpacerItem *horizontalSpacer_37;
+    QHBoxLayout *horizontalLayout_28;
+    QSpacerItem *horizontalSpacer_78;
+    QLabel *label_42;
+    QTextEdit *textEdit_3;
+    QSpacerItem *horizontalSpacer_84;
+    QSpacerItem *horizontalSpacer_40;
+    QSpacerItem *horizontalSpacer_76;
+    QHBoxLayout *horizontalLayout_29;
+    QSpacerItem *horizontalSpacer_33;
+    QSpacerItem *horizontalSpacer_39;
+    QPushButton *goodsInfoOkBtn;
+    QSpacerItem *horizontalSpacer_51;
+    QPushButton *goodsDelBtn;
+    QSpacerItem *horizontalSpacer_90;
+    QSpacerItem *horizontalSpacer_91;
+    QWidget *page_3;
+    QVBoxLayout *verticalLayout_6;
+    QHBoxLayout *horizontalLayout_33;
+    QSpacerItem *horizontalSpacer_92;
+    QLabel *label_29;
+    QSpacerItem *horizontalSpacer_93;
+    QHBoxLayout *horizontalLayout_32;
+    QSpacerItem *horizontalSpacer_94;
+    QLabel *label_4;
+    QLineEdit *goodIDLine;
+    QSpacerItem *horizontalSpacer_95;
+    QHBoxLayout *horizontalLayout_34;
+    QSpacerItem *horizontalSpacer_96;
+    QLabel *label_5;
+    QLineEdit *goodNameLine;
+    QSpacerItem *horizontalSpacer_99;
+    QHBoxLayout *horizontalLayout_35;
+    QSpacerItem *horizontalSpacer_97;
+    QLabel *label_6;
+    QLineEdit *goodScaleLine;
+    QSpacerItem *horizontalSpacer_100;
+    QHBoxLayout *horizontalLayout_36;
+    QSpacerItem *horizontalSpacer_98;
+    QLabel *label_13;
+    QLineEdit *goodOrderLine;
+    QSpacerItem *horizontalSpacer_101;
+    QHBoxLayout *horizontalLayout_37;
+    QSpacerItem *horizontalSpacer_102;
+    QSpacerItem *horizontalSpacer_47;
+    QPushButton *classOkBtn;
+    QSpacerItem *horizontalSpacer_46;
+    QPushButton *classDelBtn;
+    QSpacerItem *horizontalSpacer_52;
+    QSpacerItem *horizontalSpacer_44;
+
+    void setupUi(QWidget *shopsubmit)
+    {
+        if (shopsubmit->objectName().isEmpty())
+            shopsubmit->setObjectName(QString::fromUtf8("shopsubmit"));
+        shopsubmit->resize(1051, 728);
+        shopsubmit->setStyleSheet(QString::fromUtf8("background-color: rgb(232, 232, 232);"));
+        verticalLayout_3 = new QVBoxLayout(shopsubmit);
+        verticalLayout_3->setSpacing(6);
+        verticalLayout_3->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_3->setObjectName(QString::fromUtf8("verticalLayout_3"));
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setSpacing(6);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        manageBtn = new QPushButton(shopsubmit);
+        manageBtn->setObjectName(QString::fromUtf8("manageBtn"));
+        QSizePolicy sizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(manageBtn->sizePolicy().hasHeightForWidth());
+        manageBtn->setSizePolicy(sizePolicy);
+        manageBtn->setMinimumSize(QSize(199, 42));
+        manageBtn->setMaximumSize(QSize(16777215, 30));
+        QFont font;
+        font.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font.setPointSize(14);
+        font.setBold(true);
+        font.setItalic(false);
+        font.setWeight(75);
+        font.setStrikeOut(false);
+        manageBtn->setFont(font);
+        manageBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(0, 0, 0);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout->addWidget(manageBtn);
+
+        horizontalSpacer_4 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout->addItem(horizontalSpacer_4);
+
+        horizontalSpacer = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout->addItem(horizontalSpacer);
+
+        addClassBtn = new QPushButton(shopsubmit);
+        addClassBtn->setObjectName(QString::fromUtf8("addClassBtn"));
+        sizePolicy.setHeightForWidth(addClassBtn->sizePolicy().hasHeightForWidth());
+        addClassBtn->setSizePolicy(sizePolicy);
+        addClassBtn->setMinimumSize(QSize(199, 42));
+        addClassBtn->setMaximumSize(QSize(16777215, 30));
+        QFont font1;
+        font1.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font1.setPointSize(14);
+        font1.setBold(true);
+        font1.setWeight(75);
+        addClassBtn->setFont(font1);
+        addClassBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74, 74, 74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout->addWidget(addClassBtn);
+
+        xgClassBtn = new QPushButton(shopsubmit);
+        xgClassBtn->setObjectName(QString::fromUtf8("xgClassBtn"));
+        sizePolicy.setHeightForWidth(xgClassBtn->sizePolicy().hasHeightForWidth());
+        xgClassBtn->setSizePolicy(sizePolicy);
+        xgClassBtn->setMinimumSize(QSize(199, 42));
+        xgClassBtn->setMaximumSize(QSize(16777215, 30));
+        xgClassBtn->setFont(font1);
+        xgClassBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74, 74, 74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout->addWidget(xgClassBtn);
+
+        addProductBtn = new QPushButton(shopsubmit);
+        addProductBtn->setObjectName(QString::fromUtf8("addProductBtn"));
+        sizePolicy.setHeightForWidth(addProductBtn->sizePolicy().hasHeightForWidth());
+        addProductBtn->setSizePolicy(sizePolicy);
+        addProductBtn->setMinimumSize(QSize(199, 42));
+        addProductBtn->setMaximumSize(QSize(16777215, 30));
+        addProductBtn->setFont(font1);
+        addProductBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74, 74, 74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout->addWidget(addProductBtn);
+
+        xgProductBtn = new QPushButton(shopsubmit);
+        xgProductBtn->setObjectName(QString::fromUtf8("xgProductBtn"));
+        sizePolicy.setHeightForWidth(xgProductBtn->sizePolicy().hasHeightForWidth());
+        xgProductBtn->setSizePolicy(sizePolicy);
+        xgProductBtn->setMinimumSize(QSize(199, 42));
+        xgProductBtn->setMaximumSize(QSize(16777215, 30));
+        xgProductBtn->setFont(font1);
+        xgProductBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74, 74, 74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout->addWidget(xgProductBtn);
+
+
+        verticalLayout_3->addLayout(horizontalLayout);
+
+        stackedWidget = new QStackedWidget(shopsubmit);
+        stackedWidget->setObjectName(QString::fromUtf8("stackedWidget"));
+        stackedWidget->setMinimumSize(QSize(800, 600));
+        page = new QWidget();
+        page->setObjectName(QString::fromUtf8("page"));
+        verticalLayout = new QVBoxLayout(page);
+        verticalLayout->setSpacing(6);
+        verticalLayout->setContentsMargins(11, 11, 11, 11);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        label_7 = new QLabel(page);
+        label_7->setObjectName(QString::fromUtf8("label_7"));
+        QSizePolicy sizePolicy1(QSizePolicy::Maximum, QSizePolicy::Preferred);
+        sizePolicy1.setHorizontalStretch(0);
+        sizePolicy1.setVerticalStretch(0);
+        sizePolicy1.setHeightForWidth(label_7->sizePolicy().hasHeightForWidth());
+        label_7->setSizePolicy(sizePolicy1);
+        label_7->setFont(font1);
+        label_7->setMouseTracking(false);
+
+        verticalLayout->addWidget(label_7);
+
+        tableWidgetClass = new QTableWidget(page);
+        tableWidgetClass->setObjectName(QString::fromUtf8("tableWidgetClass"));
+        tableWidgetClass->setMaximumSize(QSize(16777215, 300));
+        tableWidgetClass->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        verticalLayout->addWidget(tableWidgetClass);
+
+        label_8 = new QLabel(page);
+        label_8->setObjectName(QString::fromUtf8("label_8"));
+        sizePolicy1.setHeightForWidth(label_8->sizePolicy().hasHeightForWidth());
+        label_8->setSizePolicy(sizePolicy1);
+        label_8->setFont(font1);
+        label_8->setMouseTracking(false);
+
+        verticalLayout->addWidget(label_8);
+
+        tableWidgetProduct = new QTableWidget(page);
+        tableWidgetProduct->setObjectName(QString::fromUtf8("tableWidgetProduct"));
+        tableWidgetProduct->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        verticalLayout->addWidget(tableWidgetProduct);
+
+        horizontalLayout_2 = new QHBoxLayout();
+        horizontalLayout_2->setSpacing(6);
+        horizontalLayout_2->setObjectName(QString::fromUtf8("horizontalLayout_2"));
+        countdownLabel = new QLabel(page);
+        countdownLabel->setObjectName(QString::fromUtf8("countdownLabel"));
+        countdownLabel->setMinimumSize(QSize(250, 0));
+        QFont font2;
+        font2.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font2.setPointSize(10);
+        font2.setBold(true);
+        font2.setWeight(75);
+        countdownLabel->setFont(font2);
+        countdownLabel->setStyleSheet(QString::fromUtf8("color: rgb(255, 0, 0);"));
+
+        horizontalLayout_2->addWidget(countdownLabel);
+
+        horizontalSpacer_5 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_2->addItem(horizontalSpacer_5);
+
+        label_2 = new QLabel(page);
+        label_2->setObjectName(QString::fromUtf8("label_2"));
+        label_2->setMinimumSize(QSize(100, 0));
+        QFont font3;
+        font3.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font3.setPointSize(12);
+        font3.setBold(false);
+        font3.setWeight(50);
+        label_2->setFont(font3);
+
+        horizontalLayout_2->addWidget(label_2);
+
+        purchaseLE = new QLineEdit(page);
+        purchaseLE->setObjectName(QString::fromUtf8("purchaseLE"));
+        QSizePolicy sizePolicy2(QSizePolicy::Expanding, QSizePolicy::Fixed);
+        sizePolicy2.setHorizontalStretch(0);
+        sizePolicy2.setVerticalStretch(0);
+        sizePolicy2.setHeightForWidth(purchaseLE->sizePolicy().hasHeightForWidth());
+        purchaseLE->setSizePolicy(sizePolicy2);
+        purchaseLE->setMinimumSize(QSize(0, 30));
+        purchaseLE->setMaximumSize(QSize(150, 30));
+        purchaseLE->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_2->addWidget(purchaseLE);
+
+        label = new QLabel(page);
+        label->setObjectName(QString::fromUtf8("label"));
+        label->setFont(font3);
+
+        horizontalLayout_2->addWidget(label);
+
+        comboproduct = new QComboBox(page);
+        comboproduct->setObjectName(QString::fromUtf8("comboproduct"));
+        comboproduct->setMinimumSize(QSize(150, 25));
+        comboproduct->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_2->addWidget(comboproduct);
+
+        productModeBtn = new QPushButton(page);
+        productModeBtn->setObjectName(QString::fromUtf8("productModeBtn"));
+        sizePolicy.setHeightForWidth(productModeBtn->sizePolicy().hasHeightForWidth());
+        productModeBtn->setSizePolicy(sizePolicy);
+        productModeBtn->setMinimumSize(QSize(100, 25));
+        QFont font4;
+        font4.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font4.setPointSize(12);
+        font4.setBold(true);
+        font4.setWeight(75);
+        productModeBtn->setFont(font4);
+        productModeBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout_2->addWidget(productModeBtn);
+
+
+        verticalLayout->addLayout(horizontalLayout_2);
+
+        stackedWidget->addWidget(page);
+        page_2 = new QWidget();
+        page_2->setObjectName(QString::fromUtf8("page_2"));
+        verticalLayout_2 = new QVBoxLayout(page_2);
+        verticalLayout_2->setSpacing(6);
+        verticalLayout_2->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_2->setObjectName(QString::fromUtf8("verticalLayout_2"));
+        horizontalLayout_26 = new QHBoxLayout();
+        horizontalLayout_26->setSpacing(6);
+        horizontalLayout_26->setObjectName(QString::fromUtf8("horizontalLayout_26"));
+        horizontalSpacer_73 = new QSpacerItem(37, 17, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_26->addItem(horizontalSpacer_73);
+
+        label_3 = new QLabel(page_2);
+        label_3->setObjectName(QString::fromUtf8("label_3"));
+        label_3->setMinimumSize(QSize(0, 60));
+        label_3->setFont(font1);
+
+        horizontalLayout_26->addWidget(label_3);
+
+        horizontalSpacer_74 = new QSpacerItem(37, 27, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_26->addItem(horizontalSpacer_74);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_26);
+
+        horizontalLayout_3 = new QHBoxLayout();
+        horizontalLayout_3->setSpacing(6);
+        horizontalLayout_3->setObjectName(QString::fromUtf8("horizontalLayout_3"));
+        horizontalSpacer_27 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_3->addItem(horizontalSpacer_27);
+
+        label_14 = new QLabel(page_2);
+        label_14->setObjectName(QString::fromUtf8("label_14"));
+        label_14->setMinimumSize(QSize(160, 30));
+        label_14->setMaximumSize(QSize(160, 16777215));
+        label_14->setFont(font4);
+        label_14->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_3->addWidget(label_14);
+
+        lineEdit_8 = new QLineEdit(page_2);
+        lineEdit_8->setObjectName(QString::fromUtf8("lineEdit_8"));
+        QSizePolicy sizePolicy3(QSizePolicy::Expanding, QSizePolicy::Expanding);
+        sizePolicy3.setHorizontalStretch(0);
+        sizePolicy3.setVerticalStretch(0);
+        sizePolicy3.setHeightForWidth(lineEdit_8->sizePolicy().hasHeightForWidth());
+        lineEdit_8->setSizePolicy(sizePolicy3);
+        lineEdit_8->setMinimumSize(QSize(300, 30));
+        lineEdit_8->setMaximumSize(QSize(16777215, 30));
+        lineEdit_8->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_3->addWidget(lineEdit_8);
+
+        horizontalSpacer_8 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_3->addItem(horizontalSpacer_8);
+
+        label_20 = new QLabel(page_2);
+        label_20->setObjectName(QString::fromUtf8("label_20"));
+        label_20->setMinimumSize(QSize(110, 30));
+        label_20->setFont(font4);
+        label_20->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_3->addWidget(label_20);
+
+        lineEdit_14 = new QLineEdit(page_2);
+        lineEdit_14->setObjectName(QString::fromUtf8("lineEdit_14"));
+        sizePolicy3.setHeightForWidth(lineEdit_14->sizePolicy().hasHeightForWidth());
+        lineEdit_14->setSizePolicy(sizePolicy3);
+        lineEdit_14->setMinimumSize(QSize(300, 30));
+        lineEdit_14->setMaximumSize(QSize(16777215, 30));
+        lineEdit_14->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_3->addWidget(lineEdit_14);
+
+        horizontalSpacer_7 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_3->addItem(horizontalSpacer_7);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_3);
+
+        horizontalLayout_4 = new QHBoxLayout();
+        horizontalLayout_4->setSpacing(6);
+        horizontalLayout_4->setObjectName(QString::fromUtf8("horizontalLayout_4"));
+        horizontalSpacer_9 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_4->addItem(horizontalSpacer_9);
+
+        label_15 = new QLabel(page_2);
+        label_15->setObjectName(QString::fromUtf8("label_15"));
+        label_15->setMinimumSize(QSize(160, 30));
+        label_15->setMaximumSize(QSize(160, 16777215));
+        label_15->setFont(font4);
+        label_15->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_4->addWidget(label_15);
+
+        comboBox = new QComboBox(page_2);
+        comboBox->setObjectName(QString::fromUtf8("comboBox"));
+        sizePolicy3.setHeightForWidth(comboBox->sizePolicy().hasHeightForWidth());
+        comboBox->setSizePolicy(sizePolicy3);
+        comboBox->setMinimumSize(QSize(300, 30));
+        comboBox->setMaximumSize(QSize(16777215, 30));
+        comboBox->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_4->addWidget(comboBox);
+
+        horizontalSpacer_10 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_4->addItem(horizontalSpacer_10);
+
+        label_21 = new QLabel(page_2);
+        label_21->setObjectName(QString::fromUtf8("label_21"));
+        label_21->setMinimumSize(QSize(110, 30));
+        label_21->setFont(font4);
+        label_21->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_4->addWidget(label_21);
+
+        lineEdit_15 = new QLineEdit(page_2);
+        lineEdit_15->setObjectName(QString::fromUtf8("lineEdit_15"));
+        sizePolicy3.setHeightForWidth(lineEdit_15->sizePolicy().hasHeightForWidth());
+        lineEdit_15->setSizePolicy(sizePolicy3);
+        lineEdit_15->setMinimumSize(QSize(300, 30));
+        lineEdit_15->setMaximumSize(QSize(16777215, 30));
+        lineEdit_15->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_4->addWidget(lineEdit_15);
+
+        horizontalSpacer_11 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_4->addItem(horizontalSpacer_11);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_4);
+
+        horizontalLayout_5 = new QHBoxLayout();
+        horizontalLayout_5->setSpacing(6);
+        horizontalLayout_5->setObjectName(QString::fromUtf8("horizontalLayout_5"));
+        horizontalSpacer_12 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_5->addItem(horizontalSpacer_12);
+
+        label_16 = new QLabel(page_2);
+        label_16->setObjectName(QString::fromUtf8("label_16"));
+        label_16->setMinimumSize(QSize(160, 30));
+        label_16->setMaximumSize(QSize(160, 30));
+        label_16->setFont(font4);
+        label_16->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_5->addWidget(label_16);
+
+        lineEdit_10 = new QLineEdit(page_2);
+        lineEdit_10->setObjectName(QString::fromUtf8("lineEdit_10"));
+        sizePolicy3.setHeightForWidth(lineEdit_10->sizePolicy().hasHeightForWidth());
+        lineEdit_10->setSizePolicy(sizePolicy3);
+        lineEdit_10->setMinimumSize(QSize(300, 30));
+        lineEdit_10->setMaximumSize(QSize(16777215, 30));
+        lineEdit_10->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_5->addWidget(lineEdit_10);
+
+        horizontalSpacer_13 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_5->addItem(horizontalSpacer_13);
+
+        label_22 = new QLabel(page_2);
+        label_22->setObjectName(QString::fromUtf8("label_22"));
+        label_22->setMinimumSize(QSize(110, 30));
+        label_22->setFont(font4);
+        label_22->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_5->addWidget(label_22);
+
+        lineEdit_16 = new QLineEdit(page_2);
+        lineEdit_16->setObjectName(QString::fromUtf8("lineEdit_16"));
+        sizePolicy3.setHeightForWidth(lineEdit_16->sizePolicy().hasHeightForWidth());
+        lineEdit_16->setSizePolicy(sizePolicy3);
+        lineEdit_16->setMinimumSize(QSize(300, 30));
+        lineEdit_16->setMaximumSize(QSize(16777215, 30));
+        lineEdit_16->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_5->addWidget(lineEdit_16);
+
+        horizontalSpacer_14 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_5->addItem(horizontalSpacer_14);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_5);
+
+        horizontalLayout_6 = new QHBoxLayout();
+        horizontalLayout_6->setSpacing(6);
+        horizontalLayout_6->setObjectName(QString::fromUtf8("horizontalLayout_6"));
+        horizontalSpacer_17 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_6->addItem(horizontalSpacer_17);
+
+        label_17 = new QLabel(page_2);
+        label_17->setObjectName(QString::fromUtf8("label_17"));
+        label_17->setMinimumSize(QSize(160, 30));
+        label_17->setMaximumSize(QSize(160, 30));
+        label_17->setFont(font4);
+        label_17->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_6->addWidget(label_17);
+
+        lineEdit_11 = new QLineEdit(page_2);
+        lineEdit_11->setObjectName(QString::fromUtf8("lineEdit_11"));
+        sizePolicy3.setHeightForWidth(lineEdit_11->sizePolicy().hasHeightForWidth());
+        lineEdit_11->setSizePolicy(sizePolicy3);
+        lineEdit_11->setMinimumSize(QSize(300, 30));
+        lineEdit_11->setMaximumSize(QSize(16777215, 30));
+        lineEdit_11->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_6->addWidget(lineEdit_11);
+
+        horizontalSpacer_16 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_6->addItem(horizontalSpacer_16);
+
+        label_23 = new QLabel(page_2);
+        label_23->setObjectName(QString::fromUtf8("label_23"));
+        label_23->setMinimumSize(QSize(110, 30));
+        label_23->setFont(font4);
+        label_23->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_6->addWidget(label_23);
+
+        lineEdit_17 = new QLineEdit(page_2);
+        lineEdit_17->setObjectName(QString::fromUtf8("lineEdit_17"));
+        sizePolicy3.setHeightForWidth(lineEdit_17->sizePolicy().hasHeightForWidth());
+        lineEdit_17->setSizePolicy(sizePolicy3);
+        lineEdit_17->setMinimumSize(QSize(300, 30));
+        lineEdit_17->setMaximumSize(QSize(16777215, 30));
+        lineEdit_17->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_6->addWidget(lineEdit_17);
+
+        horizontalSpacer_15 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_6->addItem(horizontalSpacer_15);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_6);
+
+        horizontalLayout_7 = new QHBoxLayout();
+        horizontalLayout_7->setSpacing(6);
+        horizontalLayout_7->setObjectName(QString::fromUtf8("horizontalLayout_7"));
+        horizontalSpacer_19 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_7->addItem(horizontalSpacer_19);
+
+        label_18 = new QLabel(page_2);
+        label_18->setObjectName(QString::fromUtf8("label_18"));
+        label_18->setMinimumSize(QSize(160, 30));
+        label_18->setMaximumSize(QSize(160, 30));
+        label_18->setFont(font4);
+        label_18->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_7->addWidget(label_18);
+
+        lineEdit_12 = new QLineEdit(page_2);
+        lineEdit_12->setObjectName(QString::fromUtf8("lineEdit_12"));
+        sizePolicy3.setHeightForWidth(lineEdit_12->sizePolicy().hasHeightForWidth());
+        lineEdit_12->setSizePolicy(sizePolicy3);
+        lineEdit_12->setMinimumSize(QSize(300, 30));
+        lineEdit_12->setMaximumSize(QSize(16777215, 30));
+        lineEdit_12->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_7->addWidget(lineEdit_12);
+
+        horizontalSpacer_20 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_7->addItem(horizontalSpacer_20);
+
+        label_24 = new QLabel(page_2);
+        label_24->setObjectName(QString::fromUtf8("label_24"));
+        label_24->setMinimumSize(QSize(110, 30));
+        label_24->setFont(font4);
+        label_24->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_7->addWidget(label_24);
+
+        lineEdit_18 = new QLineEdit(page_2);
+        lineEdit_18->setObjectName(QString::fromUtf8("lineEdit_18"));
+        sizePolicy3.setHeightForWidth(lineEdit_18->sizePolicy().hasHeightForWidth());
+        lineEdit_18->setSizePolicy(sizePolicy3);
+        lineEdit_18->setMinimumSize(QSize(300, 30));
+        lineEdit_18->setMaximumSize(QSize(16777215, 30));
+        lineEdit_18->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_7->addWidget(lineEdit_18);
+
+        horizontalSpacer_18 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_7->addItem(horizontalSpacer_18);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_7);
+
+        horizontalLayout_8 = new QHBoxLayout();
+        horizontalLayout_8->setSpacing(6);
+        horizontalLayout_8->setObjectName(QString::fromUtf8("horizontalLayout_8"));
+        horizontalSpacer_21 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_8->addItem(horizontalSpacer_21);
+
+        label_28 = new QLabel(page_2);
+        label_28->setObjectName(QString::fromUtf8("label_28"));
+        label_28->setMinimumSize(QSize(160, 30));
+        label_28->setMaximumSize(QSize(160, 16777215));
+        label_28->setFont(font4);
+        label_28->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_8->addWidget(label_28);
+
+        lineEdit_13 = new QLineEdit(page_2);
+        lineEdit_13->setObjectName(QString::fromUtf8("lineEdit_13"));
+        sizePolicy3.setHeightForWidth(lineEdit_13->sizePolicy().hasHeightForWidth());
+        lineEdit_13->setSizePolicy(sizePolicy3);
+        lineEdit_13->setMinimumSize(QSize(300, 30));
+        lineEdit_13->setMaximumSize(QSize(16777215, 30));
+        lineEdit_13->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_8->addWidget(lineEdit_13);
+
+        horizontalSpacer_22 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_8->addItem(horizontalSpacer_22);
+
+        label_43 = new QLabel(page_2);
+        label_43->setObjectName(QString::fromUtf8("label_43"));
+        label_43->setMinimumSize(QSize(110, 30));
+        label_43->setFont(font4);
+        label_43->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_8->addWidget(label_43);
+
+        lineEdit_21 = new QLineEdit(page_2);
+        lineEdit_21->setObjectName(QString::fromUtf8("lineEdit_21"));
+        sizePolicy3.setHeightForWidth(lineEdit_21->sizePolicy().hasHeightForWidth());
+        lineEdit_21->setSizePolicy(sizePolicy3);
+        lineEdit_21->setMinimumSize(QSize(300, 30));
+        lineEdit_21->setMaximumSize(QSize(16777215, 30));
+        lineEdit_21->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_8->addWidget(lineEdit_21);
+
+        horizontalSpacer_24 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_8->addItem(horizontalSpacer_24);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_8);
+
+        horizontalLayout_9 = new QHBoxLayout();
+        horizontalLayout_9->setSpacing(6);
+        horizontalLayout_9->setObjectName(QString::fromUtf8("horizontalLayout_9"));
+        horizontalSpacer_6 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_9->addItem(horizontalSpacer_6);
+
+        label_44 = new QLabel(page_2);
+        label_44->setObjectName(QString::fromUtf8("label_44"));
+        label_44->setMinimumSize(QSize(110, 30));
+        label_44->setMaximumSize(QSize(160, 16777215));
+        label_44->setFont(font4);
+
+        horizontalLayout_9->addWidget(label_44);
+
+        lineEdit_22 = new QLineEdit(page_2);
+        lineEdit_22->setObjectName(QString::fromUtf8("lineEdit_22"));
+        sizePolicy3.setHeightForWidth(lineEdit_22->sizePolicy().hasHeightForWidth());
+        lineEdit_22->setSizePolicy(sizePolicy3);
+        lineEdit_22->setMinimumSize(QSize(300, 30));
+        lineEdit_22->setMaximumSize(QSize(16777215, 30));
+        lineEdit_22->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_9->addWidget(lineEdit_22);
+
+        horizontalSpacer_28 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_9->addItem(horizontalSpacer_28);
+
+        label_47 = new QLabel(page_2);
+        label_47->setObjectName(QString::fromUtf8("label_47"));
+        label_47->setMinimumSize(QSize(110, 30));
+        label_47->setFont(font4);
+        label_47->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_9->addWidget(label_47);
+
+        lineEdit_25 = new QLineEdit(page_2);
+        lineEdit_25->setObjectName(QString::fromUtf8("lineEdit_25"));
+        sizePolicy3.setHeightForWidth(lineEdit_25->sizePolicy().hasHeightForWidth());
+        lineEdit_25->setSizePolicy(sizePolicy3);
+        lineEdit_25->setMinimumSize(QSize(300, 30));
+        lineEdit_25->setMaximumSize(QSize(16777215, 30));
+        lineEdit_25->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_9->addWidget(lineEdit_25);
+
+        horizontalSpacer_32 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_9->addItem(horizontalSpacer_32);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_9);
+
+        horizontalLayout_10 = new QHBoxLayout();
+        horizontalLayout_10->setSpacing(6);
+        horizontalLayout_10->setObjectName(QString::fromUtf8("horizontalLayout_10"));
+        horizontalSpacer_23 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_23);
+
+        label_45 = new QLabel(page_2);
+        label_45->setObjectName(QString::fromUtf8("label_45"));
+        label_45->setMinimumSize(QSize(110, 30));
+        label_45->setFont(font4);
+
+        horizontalLayout_10->addWidget(label_45);
+
+        lineEdit_23 = new QLineEdit(page_2);
+        lineEdit_23->setObjectName(QString::fromUtf8("lineEdit_23"));
+        sizePolicy3.setHeightForWidth(lineEdit_23->sizePolicy().hasHeightForWidth());
+        lineEdit_23->setSizePolicy(sizePolicy3);
+        lineEdit_23->setMinimumSize(QSize(300, 30));
+        lineEdit_23->setMaximumSize(QSize(16777215, 30));
+        lineEdit_23->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_10->addWidget(lineEdit_23);
+
+        horizontalSpacer_26 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_26);
+
+        label_46 = new QLabel(page_2);
+        label_46->setObjectName(QString::fromUtf8("label_46"));
+        label_46->setMinimumSize(QSize(110, 30));
+        label_46->setFont(font4);
+        label_46->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_10->addWidget(label_46);
+
+        lineEdit_24 = new QLineEdit(page_2);
+        lineEdit_24->setObjectName(QString::fromUtf8("lineEdit_24"));
+        sizePolicy3.setHeightForWidth(lineEdit_24->sizePolicy().hasHeightForWidth());
+        lineEdit_24->setSizePolicy(sizePolicy3);
+        lineEdit_24->setMinimumSize(QSize(300, 30));
+        lineEdit_24->setMaximumSize(QSize(16777215, 30));
+        lineEdit_24->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_10->addWidget(lineEdit_24);
+
+        horizontalSpacer_25 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_25);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_10);
+
+        horizontalLayout_11 = new QHBoxLayout();
+        horizontalLayout_11->setSpacing(6);
+        horizontalLayout_11->setObjectName(QString::fromUtf8("horizontalLayout_11"));
+        horizontalSpacer_80 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_80);
+
+        horizontalSpacer_29 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_29);
+
+        horizontalSpacer_2 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_2);
+
+        label_26 = new QLabel(page_2);
+        label_26->setObjectName(QString::fromUtf8("label_26"));
+        label_26->setMinimumSize(QSize(110, 30));
+        label_26->setMaximumSize(QSize(160, 16777215));
+        label_26->setFont(font4);
+        label_26->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_11->addWidget(label_26);
+
+        lineEdit_20 = new QLineEdit(page_2);
+        lineEdit_20->setObjectName(QString::fromUtf8("lineEdit_20"));
+        sizePolicy3.setHeightForWidth(lineEdit_20->sizePolicy().hasHeightForWidth());
+        lineEdit_20->setSizePolicy(sizePolicy3);
+        lineEdit_20->setMinimumSize(QSize(326, 30));
+        lineEdit_20->setMaximumSize(QSize(16777215, 30));
+        lineEdit_20->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_11->addWidget(lineEdit_20);
+
+        horizontalSpacer_77 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_77);
+
+        smallpicBtn = new QPushButton(page_2);
+        smallpicBtn->setObjectName(QString::fromUtf8("smallpicBtn"));
+        smallpicBtn->setMinimumSize(QSize(100, 30));
+        smallpicBtn->setMaximumSize(QSize(200, 16777215));
+
+        horizontalLayout_11->addWidget(smallpicBtn);
+
+        smallpicBtn_2 = new QPushButton(page_2);
+        smallpicBtn_2->setObjectName(QString::fromUtf8("smallpicBtn_2"));
+        smallpicBtn_2->setMinimumSize(QSize(100, 30));
+        smallpicBtn_2->setMaximumSize(QSize(200, 16777215));
+
+        horizontalLayout_11->addWidget(smallpicBtn_2);
+
+        horizontalSpacer_35 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_35);
+
+        horizontalSpacer_87 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_87);
+
+        horizontalSpacer_45 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_45);
+
+        horizontalSpacer_49 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_49);
+
+        horizontalSpacer_85 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_85);
+
+        horizontalSpacer_30 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_11->addItem(horizontalSpacer_30);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_11);
+
+        horizontalLayout_12 = new QHBoxLayout();
+        horizontalLayout_12->setSpacing(6);
+        horizontalLayout_12->setObjectName(QString::fromUtf8("horizontalLayout_12"));
+        horizontalSpacer_31 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_31);
+
+        horizontalSpacer_42 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_42);
+
+        horizontalSpacer_43 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_43);
+
+        label_25 = new QLabel(page_2);
+        label_25->setObjectName(QString::fromUtf8("label_25"));
+        label_25->setMinimumSize(QSize(110, 30));
+        label_25->setMaximumSize(QSize(160, 16777215));
+        label_25->setFont(font4);
+        label_25->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_12->addWidget(label_25);
+
+        lineEdit_19 = new QLineEdit(page_2);
+        lineEdit_19->setObjectName(QString::fromUtf8("lineEdit_19"));
+        sizePolicy3.setHeightForWidth(lineEdit_19->sizePolicy().hasHeightForWidth());
+        lineEdit_19->setSizePolicy(sizePolicy3);
+        lineEdit_19->setMinimumSize(QSize(326, 30));
+        lineEdit_19->setMaximumSize(QSize(16777215, 30));
+        lineEdit_19->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_12->addWidget(lineEdit_19);
+
+        horizontalSpacer_36 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_36);
+
+        bigpicBtn = new QPushButton(page_2);
+        bigpicBtn->setObjectName(QString::fromUtf8("bigpicBtn"));
+        bigpicBtn->setMinimumSize(QSize(100, 30));
+        bigpicBtn->setMaximumSize(QSize(200, 16777215));
+
+        horizontalLayout_12->addWidget(bigpicBtn);
+
+        bigpicBtn_2 = new QPushButton(page_2);
+        bigpicBtn_2->setObjectName(QString::fromUtf8("bigpicBtn_2"));
+        bigpicBtn_2->setMinimumSize(QSize(100, 30));
+        bigpicBtn_2->setMaximumSize(QSize(200, 16777215));
+
+        horizontalLayout_12->addWidget(bigpicBtn_2);
+
+        horizontalSpacer_41 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_41);
+
+        horizontalSpacer_88 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_88);
+
+        horizontalSpacer_48 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_48);
+
+        horizontalSpacer_50 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_50);
+
+        horizontalSpacer_86 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_86);
+
+        horizontalSpacer_34 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_12->addItem(horizontalSpacer_34);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_12);
+
+        horizontalLayout_13 = new QHBoxLayout();
+        horizontalLayout_13->setSpacing(6);
+        horizontalLayout_13->setObjectName(QString::fromUtf8("horizontalLayout_13"));
+        horizontalSpacer_38 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_13->addItem(horizontalSpacer_38);
+
+        label_19 = new QLabel(page_2);
+        label_19->setObjectName(QString::fromUtf8("label_19"));
+        label_19->setMinimumSize(QSize(110, 30));
+        label_19->setMaximumSize(QSize(130, 16777215));
+        label_19->setFont(font4);
+        label_19->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_13->addWidget(label_19);
+
+        textEdit = new QTextEdit(page_2);
+        textEdit->setObjectName(QString::fromUtf8("textEdit"));
+        sizePolicy3.setHeightForWidth(textEdit->sizePolicy().hasHeightForWidth());
+        textEdit->setSizePolicy(sizePolicy3);
+        textEdit->setMinimumSize(QSize(350, 0));
+        textEdit->setMaximumSize(QSize(16777215, 50));
+        textEdit->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_13->addWidget(textEdit);
+
+        horizontalSpacer_83 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_13->addItem(horizontalSpacer_83);
+
+        horizontalSpacer_3 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_13->addItem(horizontalSpacer_3);
+
+        horizontalSpacer_37 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_13->addItem(horizontalSpacer_37);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_13);
+
+        horizontalLayout_28 = new QHBoxLayout();
+        horizontalLayout_28->setSpacing(6);
+        horizontalLayout_28->setObjectName(QString::fromUtf8("horizontalLayout_28"));
+        horizontalSpacer_78 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_28->addItem(horizontalSpacer_78);
+
+        label_42 = new QLabel(page_2);
+        label_42->setObjectName(QString::fromUtf8("label_42"));
+        label_42->setMinimumSize(QSize(110, 30));
+        label_42->setFont(font4);
+        label_42->setLayoutDirection(Qt::RightToLeft);
+
+        horizontalLayout_28->addWidget(label_42);
+
+        textEdit_3 = new QTextEdit(page_2);
+        textEdit_3->setObjectName(QString::fromUtf8("textEdit_3"));
+        sizePolicy3.setHeightForWidth(textEdit_3->sizePolicy().hasHeightForWidth());
+        textEdit_3->setSizePolicy(sizePolicy3);
+        textEdit_3->setMinimumSize(QSize(350, 0));
+        textEdit_3->setMaximumSize(QSize(16777215, 50));
+        textEdit_3->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_28->addWidget(textEdit_3);
+
+        horizontalSpacer_84 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_28->addItem(horizontalSpacer_84);
+
+        horizontalSpacer_40 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_28->addItem(horizontalSpacer_40);
+
+        horizontalSpacer_76 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_28->addItem(horizontalSpacer_76);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_28);
+
+        horizontalLayout_29 = new QHBoxLayout();
+        horizontalLayout_29->setSpacing(6);
+        horizontalLayout_29->setObjectName(QString::fromUtf8("horizontalLayout_29"));
+        horizontalSpacer_33 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_29->addItem(horizontalSpacer_33);
+
+        horizontalSpacer_39 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_29->addItem(horizontalSpacer_39);
+
+        goodsInfoOkBtn = new QPushButton(page_2);
+        goodsInfoOkBtn->setObjectName(QString::fromUtf8("goodsInfoOkBtn"));
+        QSizePolicy sizePolicy4(QSizePolicy::Minimum, QSizePolicy::Expanding);
+        sizePolicy4.setHorizontalStretch(0);
+        sizePolicy4.setVerticalStretch(0);
+        sizePolicy4.setHeightForWidth(goodsInfoOkBtn->sizePolicy().hasHeightForWidth());
+        goodsInfoOkBtn->setSizePolicy(sizePolicy4);
+        goodsInfoOkBtn->setMinimumSize(QSize(200, 25));
+        goodsInfoOkBtn->setMaximumSize(QSize(16777215, 30));
+        goodsInfoOkBtn->setFont(font4);
+        goodsInfoOkBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout_29->addWidget(goodsInfoOkBtn);
+
+        horizontalSpacer_51 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_29->addItem(horizontalSpacer_51);
+
+        goodsDelBtn = new QPushButton(page_2);
+        goodsDelBtn->setObjectName(QString::fromUtf8("goodsDelBtn"));
+        sizePolicy4.setHeightForWidth(goodsDelBtn->sizePolicy().hasHeightForWidth());
+        goodsDelBtn->setSizePolicy(sizePolicy4);
+        goodsDelBtn->setMinimumSize(QSize(200, 25));
+        goodsDelBtn->setMaximumSize(QSize(16777215, 30));
+        goodsDelBtn->setFont(font4);
+        goodsDelBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout_29->addWidget(goodsDelBtn);
+
+        horizontalSpacer_90 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_29->addItem(horizontalSpacer_90);
+
+        horizontalSpacer_91 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_29->addItem(horizontalSpacer_91);
+
+
+        verticalLayout_2->addLayout(horizontalLayout_29);
+
+        stackedWidget->addWidget(page_2);
+        page_3 = new QWidget();
+        page_3->setObjectName(QString::fromUtf8("page_3"));
+        verticalLayout_6 = new QVBoxLayout(page_3);
+        verticalLayout_6->setSpacing(6);
+        verticalLayout_6->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_6->setObjectName(QString::fromUtf8("verticalLayout_6"));
+        horizontalLayout_33 = new QHBoxLayout();
+        horizontalLayout_33->setSpacing(6);
+        horizontalLayout_33->setObjectName(QString::fromUtf8("horizontalLayout_33"));
+        horizontalSpacer_92 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_33->addItem(horizontalSpacer_92);
+
+        label_29 = new QLabel(page_3);
+        label_29->setObjectName(QString::fromUtf8("label_29"));
+        label_29->setMinimumSize(QSize(60, 60));
+        label_29->setFont(font1);
+
+        horizontalLayout_33->addWidget(label_29);
+
+        horizontalSpacer_93 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_33->addItem(horizontalSpacer_93);
+
+
+        verticalLayout_6->addLayout(horizontalLayout_33);
+
+        horizontalLayout_32 = new QHBoxLayout();
+        horizontalLayout_32->setSpacing(6);
+        horizontalLayout_32->setObjectName(QString::fromUtf8("horizontalLayout_32"));
+        horizontalSpacer_94 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_32->addItem(horizontalSpacer_94);
+
+        label_4 = new QLabel(page_3);
+        label_4->setObjectName(QString::fromUtf8("label_4"));
+        QSizePolicy sizePolicy5(QSizePolicy::Fixed, QSizePolicy::Preferred);
+        sizePolicy5.setHorizontalStretch(0);
+        sizePolicy5.setVerticalStretch(0);
+        sizePolicy5.setHeightForWidth(label_4->sizePolicy().hasHeightForWidth());
+        label_4->setSizePolicy(sizePolicy5);
+        label_4->setMinimumSize(QSize(0, 30));
+        label_4->setMaximumSize(QSize(300, 16777215));
+        label_4->setFont(font4);
+        label_4->setLayoutDirection(Qt::LeftToRight);
+
+        horizontalLayout_32->addWidget(label_4);
+
+        goodIDLine = new QLineEdit(page_3);
+        goodIDLine->setObjectName(QString::fromUtf8("goodIDLine"));
+        sizePolicy3.setHeightForWidth(goodIDLine->sizePolicy().hasHeightForWidth());
+        goodIDLine->setSizePolicy(sizePolicy3);
+        goodIDLine->setMinimumSize(QSize(0, 30));
+        goodIDLine->setMaximumSize(QSize(450, 30));
+        goodIDLine->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+        goodIDLine->setMaxLength(100);
+
+        horizontalLayout_32->addWidget(goodIDLine);
+
+        horizontalSpacer_95 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_32->addItem(horizontalSpacer_95);
+
+
+        verticalLayout_6->addLayout(horizontalLayout_32);
+
+        horizontalLayout_34 = new QHBoxLayout();
+        horizontalLayout_34->setSpacing(6);
+        horizontalLayout_34->setObjectName(QString::fromUtf8("horizontalLayout_34"));
+        horizontalSpacer_96 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_34->addItem(horizontalSpacer_96);
+
+        label_5 = new QLabel(page_3);
+        label_5->setObjectName(QString::fromUtf8("label_5"));
+        sizePolicy5.setHeightForWidth(label_5->sizePolicy().hasHeightForWidth());
+        label_5->setSizePolicy(sizePolicy5);
+        label_5->setMinimumSize(QSize(0, 30));
+        label_5->setMaximumSize(QSize(300, 16777215));
+        label_5->setFont(font4);
+        label_5->setLayoutDirection(Qt::LeftToRight);
+
+        horizontalLayout_34->addWidget(label_5);
+
+        goodNameLine = new QLineEdit(page_3);
+        goodNameLine->setObjectName(QString::fromUtf8("goodNameLine"));
+        sizePolicy3.setHeightForWidth(goodNameLine->sizePolicy().hasHeightForWidth());
+        goodNameLine->setSizePolicy(sizePolicy3);
+        goodNameLine->setMinimumSize(QSize(0, 30));
+        goodNameLine->setMaximumSize(QSize(450, 30));
+        goodNameLine->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+        goodNameLine->setMaxLength(200);
+
+        horizontalLayout_34->addWidget(goodNameLine);
+
+        horizontalSpacer_99 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_34->addItem(horizontalSpacer_99);
+
+
+        verticalLayout_6->addLayout(horizontalLayout_34);
+
+        horizontalLayout_35 = new QHBoxLayout();
+        horizontalLayout_35->setSpacing(6);
+        horizontalLayout_35->setObjectName(QString::fromUtf8("horizontalLayout_35"));
+        horizontalSpacer_97 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_35->addItem(horizontalSpacer_97);
+
+        label_6 = new QLabel(page_3);
+        label_6->setObjectName(QString::fromUtf8("label_6"));
+        sizePolicy5.setHeightForWidth(label_6->sizePolicy().hasHeightForWidth());
+        label_6->setSizePolicy(sizePolicy5);
+        label_6->setMinimumSize(QSize(0, 30));
+        label_6->setMaximumSize(QSize(300, 16777215));
+        label_6->setFont(font4);
+        label_6->setLayoutDirection(Qt::LeftToRight);
+
+        horizontalLayout_35->addWidget(label_6);
+
+        goodScaleLine = new QLineEdit(page_3);
+        goodScaleLine->setObjectName(QString::fromUtf8("goodScaleLine"));
+        sizePolicy3.setHeightForWidth(goodScaleLine->sizePolicy().hasHeightForWidth());
+        goodScaleLine->setSizePolicy(sizePolicy3);
+        goodScaleLine->setMinimumSize(QSize(0, 30));
+        goodScaleLine->setMaximumSize(QSize(450, 30));
+        goodScaleLine->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_35->addWidget(goodScaleLine);
+
+        horizontalSpacer_100 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_35->addItem(horizontalSpacer_100);
+
+
+        verticalLayout_6->addLayout(horizontalLayout_35);
+
+        horizontalLayout_36 = new QHBoxLayout();
+        horizontalLayout_36->setSpacing(6);
+        horizontalLayout_36->setObjectName(QString::fromUtf8("horizontalLayout_36"));
+        horizontalSpacer_98 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_36->addItem(horizontalSpacer_98);
+
+        label_13 = new QLabel(page_3);
+        label_13->setObjectName(QString::fromUtf8("label_13"));
+        sizePolicy5.setHeightForWidth(label_13->sizePolicy().hasHeightForWidth());
+        label_13->setSizePolicy(sizePolicy5);
+        label_13->setMinimumSize(QSize(0, 30));
+        label_13->setMaximumSize(QSize(300, 16777215));
+        label_13->setFont(font4);
+        label_13->setLayoutDirection(Qt::LeftToRight);
+
+        horizontalLayout_36->addWidget(label_13);
+
+        goodOrderLine = new QLineEdit(page_3);
+        goodOrderLine->setObjectName(QString::fromUtf8("goodOrderLine"));
+        sizePolicy3.setHeightForWidth(goodOrderLine->sizePolicy().hasHeightForWidth());
+        goodOrderLine->setSizePolicy(sizePolicy3);
+        goodOrderLine->setMinimumSize(QSize(0, 30));
+        goodOrderLine->setMaximumSize(QSize(450, 30));
+        goodOrderLine->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_36->addWidget(goodOrderLine);
+
+        horizontalSpacer_101 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_36->addItem(horizontalSpacer_101);
+
+
+        verticalLayout_6->addLayout(horizontalLayout_36);
+
+        horizontalLayout_37 = new QHBoxLayout();
+        horizontalLayout_37->setSpacing(6);
+        horizontalLayout_37->setObjectName(QString::fromUtf8("horizontalLayout_37"));
+        horizontalSpacer_102 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_37->addItem(horizontalSpacer_102);
+
+        horizontalSpacer_47 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_37->addItem(horizontalSpacer_47);
+
+        classOkBtn = new QPushButton(page_3);
+        classOkBtn->setObjectName(QString::fromUtf8("classOkBtn"));
+        QSizePolicy sizePolicy6(QSizePolicy::Maximum, QSizePolicy::Fixed);
+        sizePolicy6.setHorizontalStretch(0);
+        sizePolicy6.setVerticalStretch(0);
+        sizePolicy6.setHeightForWidth(classOkBtn->sizePolicy().hasHeightForWidth());
+        classOkBtn->setSizePolicy(sizePolicy6);
+        classOkBtn->setMinimumSize(QSize(180, 35));
+        classOkBtn->setFont(font4);
+        classOkBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout_37->addWidget(classOkBtn);
+
+        horizontalSpacer_46 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_37->addItem(horizontalSpacer_46);
+
+        classDelBtn = new QPushButton(page_3);
+        classDelBtn->setObjectName(QString::fromUtf8("classDelBtn"));
+        sizePolicy6.setHeightForWidth(classDelBtn->sizePolicy().hasHeightForWidth());
+        classDelBtn->setSizePolicy(sizePolicy6);
+        classDelBtn->setMinimumSize(QSize(180, 35));
+        classDelBtn->setFont(font4);
+        classDelBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"border-image: url(:/MyShopping/anniu_1.png);\n"
+"background-image: url(:/MyShopping/anniu_1.png);\n"
+"color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout_37->addWidget(classDelBtn);
+
+        horizontalSpacer_52 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_37->addItem(horizontalSpacer_52);
+
+        horizontalSpacer_44 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_37->addItem(horizontalSpacer_44);
+
+
+        verticalLayout_6->addLayout(horizontalLayout_37);
+
+        stackedWidget->addWidget(page_3);
+
+        verticalLayout_3->addWidget(stackedWidget);
+
+
+        retranslateUi(shopsubmit);
+
+        stackedWidget->setCurrentIndex(0);
+
+
+        QMetaObject::connectSlotsByName(shopsubmit);
+    } // setupUi
+
+    void retranslateUi(QWidget *shopsubmit)
+    {
+        shopsubmit->setWindowTitle(QApplication::translate("shopsubmit", "shopsubmit", 0, QApplication::UnicodeUTF8));
+        manageBtn->setText(QApplication::translate("shopsubmit", "\344\272\247\345\223\201\344\277\241\346\201\257", 0, QApplication::UnicodeUTF8));
+        addClassBtn->setText(QApplication::translate("shopsubmit", "\345\210\206\347\261\273\346\267\273\345\212\240", 0, QApplication::UnicodeUTF8));
+        xgClassBtn->setText(QApplication::translate("shopsubmit", "\347\261\273\345\210\253\344\277\256\346\224\271\345\210\240\351\231\244", 0, QApplication::UnicodeUTF8));
+        addProductBtn->setText(QApplication::translate("shopsubmit", "\344\272\247\345\223\201\346\267\273\345\212\240", 0, QApplication::UnicodeUTF8));
+        xgProductBtn->setText(QApplication::translate("shopsubmit", "\344\272\247\345\223\201\344\277\256\346\224\271\345\210\240\351\231\244", 0, QApplication::UnicodeUTF8));
+        label_7->setText(QApplication::translate("shopsubmit", "\350\257\267\351\200\211\346\213\251\345\225\206\345\223\201\345\210\206\347\261\273\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_8->setText(QApplication::translate("shopsubmit", "\344\272\247\345\223\201\346\230\216\347\273\206\357\274\232", 0, QApplication::UnicodeUTF8));
+        countdownLabel->setText(QApplication::translate("shopsubmit", "\344\272\247\345\223\201\345\261\236\346\200\247", 0, QApplication::UnicodeUTF8));
+        label_2->setText(QApplication::translate("shopsubmit", "\350\257\267\345\241\253\345\206\231\345\233\242\350\264\255\346\227\266\351\227\264\346\256\265\357\274\232", 0, QApplication::UnicodeUTF8));
+        label->setText(QApplication::translate("shopsubmit", "\344\272\247\345\223\201\345\261\236\346\200\247\344\277\256\346\224\271\357\274\232", 0, QApplication::UnicodeUTF8));
+        productModeBtn->setText(QApplication::translate("shopsubmit", "\347\241\256\345\256\232\344\277\256\346\224\271", 0, QApplication::UnicodeUTF8));
+        label_3->setText(QApplication::translate("shopsubmit", "\345\225\206\345\223\201\346\267\273\345\212\240", 0, QApplication::UnicodeUTF8));
+#ifndef QT_NO_TOOLTIP
+        label_14->setToolTip(QString());
+#endif // QT_NO_TOOLTIP
+#ifndef QT_NO_STATUSTIP
+        label_14->setStatusTip(QString());
+#endif // QT_NO_STATUSTIP
+#ifndef QT_NO_WHATSTHIS
+        label_14->setWhatsThis(QString());
+#endif // QT_NO_WHATSTHIS
+        label_14->setText(QApplication::translate("shopsubmit", "\345\225\206\345\223\201  ID\357\274\232", 0, QApplication::UnicodeUTF8));
+#ifndef QT_NO_TOOLTIP
+        lineEdit_8->setToolTip(QString());
+#endif // QT_NO_TOOLTIP
+        label_20->setText(QApplication::translate("shopsubmit", " \345\225\206\345\223\201\344\272\247\345\234\260\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_15->setText(QApplication::translate("shopsubmit", "  \347\274\226\347\240\201\351\203\250\351\227\250\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_21->setText(QApplication::translate("shopsubmit", " \345\225\206\345\223\201\345\236\213\345\217\267\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_16->setText(QApplication::translate("shopsubmit", "  \345\225\206\345\223\201\347\274\226\347\240\201\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_22->setText(QApplication::translate("shopsubmit", " \345\225\206\345\223\201\345\223\201\347\211\214\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_17->setText(QApplication::translate("shopsubmit", "  \345\225\206\345\223\201\345\220\215\347\247\260\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_23->setText(QApplication::translate("shopsubmit", " \345\225\206\345\223\201\345\215\225\344\275\215\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_18->setText(QApplication::translate("shopsubmit", "      \345\225\206\345\223\201\347\237\255\345\220\215\347\247\260\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_24->setText(QApplication::translate("shopsubmit", " \345\225\206\345\223\201\345\210\206\347\261\273ID\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_28->setText(QApplication::translate("shopsubmit", "  \344\272\244\346\230\223\347\212\266\346\200\201\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_43->setText(QApplication::translate("shopsubmit", "  \346\255\243\345\270\270\345\224\256\344\273\267\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_44->setText(QApplication::translate("shopsubmit", "\345\277\227\346\204\277\350\200\205200\345\260\217\346\227\266\345\224\256\344\273\267\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_47->setText(QApplication::translate("shopsubmit", "\345\225\206\345\223\201\346\257\233\351\207\215\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_45->setText(QApplication::translate("shopsubmit", "\345\277\227\346\204\277\350\200\205500\345\260\217\346\227\266\345\224\256\344\273\267\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_46->setText(QApplication::translate("shopsubmit", "\345\270\256\345\233\260\345\224\256\344\273\267\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_26->setText(QApplication::translate("shopsubmit", "\345\260\217\345\233\276\347\211\207\351\223\276\346\216\245\357\274\232", 0, QApplication::UnicodeUTF8));
+        smallpicBtn->setText(QApplication::translate("shopsubmit", "\346\265\217\350\247\210", 0, QApplication::UnicodeUTF8));
+        smallpicBtn_2->setText(QApplication::translate("shopsubmit", "\344\270\212\344\274\240", 0, QApplication::UnicodeUTF8));
+        label_25->setText(QApplication::translate("shopsubmit", "\345\244\247\345\233\276\347\211\207\351\223\276\346\216\245\357\274\232", 0, QApplication::UnicodeUTF8));
+        bigpicBtn->setText(QApplication::translate("shopsubmit", "\346\265\217\350\247\210", 0, QApplication::UnicodeUTF8));
+        bigpicBtn_2->setText(QApplication::translate("shopsubmit", "\344\270\212\344\274\240", 0, QApplication::UnicodeUTF8));
+        label_19->setText(QApplication::translate("shopsubmit", " \345\225\206\345\223\201\344\273\213\347\273\215\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_42->setText(QApplication::translate("shopsubmit", "  \346\272\257\346\272\220\346\217\217\350\277\260\357\274\232", 0, QApplication::UnicodeUTF8));
+        goodsInfoOkBtn->setText(QApplication::translate("shopsubmit", "\347\241\256\350\256\244\346\227\240\350\257\257\345\220\216\346\217\220\344\272\244", 0, QApplication::UnicodeUTF8));
+        goodsDelBtn->setText(QApplication::translate("shopsubmit", "\347\241\256\350\256\244\345\210\240\351\231\244\350\257\245\344\272\247\345\223\201", 0, QApplication::UnicodeUTF8));
+#ifndef QT_NO_TOOLTIP
+        label_29->setToolTip(QString());
+#endif // QT_NO_TOOLTIP
+#ifndef QT_NO_STATUSTIP
+        label_29->setStatusTip(QString());
+#endif // QT_NO_STATUSTIP
+#ifndef QT_NO_WHATSTHIS
+        label_29->setWhatsThis(QString());
+#endif // QT_NO_WHATSTHIS
+        label_29->setText(QApplication::translate("shopsubmit", "\344\277\256\346\224\271\346\210\226\346\267\273\345\212\240\345\210\206\347\261\273", 0, QApplication::UnicodeUTF8));
+        label_4->setText(QApplication::translate("shopsubmit", "\345\210\206\347\261\273 ID \357\274\232    ", 0, QApplication::UnicodeUTF8));
+        label_5->setText(QApplication::translate("shopsubmit", "\345\210\206\347\261\273\345\220\215\347\247\260 \357\274\232    ", 0, QApplication::UnicodeUTF8));
+        label_6->setText(QApplication::translate("shopsubmit", "\350\277\224\345\210\251\346\257\224\347\216\207 \357\274\232    ", 0, QApplication::UnicodeUTF8));
+        label_13->setText(QApplication::translate("shopsubmit", "\346\230\276\347\244\272\351\241\272\345\272\217 \357\274\232    ", 0, QApplication::UnicodeUTF8));
+        classOkBtn->setText(QApplication::translate("shopsubmit", "\347\241\256\350\256\244\346\227\240\350\257\257\345\220\216\350\257\267\346\217\220\344\272\244", 0, QApplication::UnicodeUTF8));
+        classDelBtn->setText(QApplication::translate("shopsubmit", "\345\210\240\351\231\244\350\257\245\345\210\206\347\261\273", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class shopsubmit: public Ui_shopsubmit {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_SHOPSUBMIT_H

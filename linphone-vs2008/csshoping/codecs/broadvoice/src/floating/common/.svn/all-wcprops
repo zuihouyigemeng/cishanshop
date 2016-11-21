@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/utility.c
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/typedef.h
+END
+bvcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/bvcommon.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/utility.h
+END
+allzero.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/allzero.c
+END
+allpole.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/allpole.c
+END
+cmtables.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/cmtables.c
+END
+autocor.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/autocor.c
+END
+stblzlsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/stblzlsp.c
+END
+stblchck.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/stblchck.c
+END
+lsp2a.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/lsp2a.c
+END
+a2lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/a2lsp.c
+END
+levdur.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/common/levdur.c
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/3/trunk/eXosip/src
+END
+eXtl_tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/eXtl_tls.c
+END
+eXosip2.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/eXosip/src/eXosip2.h
+END
+eXcall_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/eXosip/src/eXcall_api.c
+END
+jrequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/jrequest.c
+END
+jcallback.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/src/jcallback.c
+END
+jpipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/eXosip/src/jpipe.c
+END
+eXosip.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/eXosip/src/eXosip.c
+END
+jdialog.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/eXosip/src/jdialog.c
+END
+eXregister_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/eXosip/src/eXregister_api.c
+END
+jpipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/eXosip/src/jpipe.h
+END
+jpublish.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/jpublish.c
+END
+eXoptions_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/eXosip/src/eXoptions_api.c
+END
+eXtl_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/eXtl_tcp.c
+END
+sdp_offans.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/eXosip/src/sdp_offans.c
+END
+eXconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/eXosip/src/eXconf.c
+END
+jcall.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/eXosip/src/jcall.c
+END
+rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/rijndael.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/src/Makefile.am
+END
+eXtransport.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/eXosip/src/eXtransport.c
+END
+jsubscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/eXosip/src/jsubscribe.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/eXosip/src/misc.c
+END
+eXpublish_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/eXosip/src/eXpublish_api.c
+END
+rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/rijndael.h
+END
+eXutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/eXosip/src/eXutils.c
+END
+eXtransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/eXosip/src/eXtransport.h
+END
+inet_ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/src/inet_ntop.c
+END
+eXinsubscription_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/eXosip/src/eXinsubscription_api.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/src/Makefile.in
+END
+eXtl_dtls.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/src/eXtl_dtls.c
+END
+inet_ntop.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/src/inet_ntop.h
+END
+jresponse.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/eXosip/src/jresponse.c
+END
+eXmessage_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/eXosip/src/eXmessage_api.c
+END
+eXsubscription_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/eXosip/src/eXsubscription_api.c
+END
+jauth.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/eXosip/src/jauth.c
+END
+eXtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/eXosip/src/eXtl.c
+END
+jevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/eXosip/src/jevents.c
+END
+milenage.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/milenage.c
+END
+jnotify.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/eXosip/src/jnotify.c
+END
+eXtl_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/eXtl_udp.c
+END
+milenage.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/eXosip/src/milenage.h
+END
+jreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/eXosip/src/jreg.c
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/eXosip/src/udp.c
+END
+eXrefer_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/eXosip/src/eXrefer_api.c
+END

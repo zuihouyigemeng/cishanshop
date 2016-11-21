@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc
+END
+doCPLC.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/doCPLC.c
+END
+iLBC_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iLBC_test.c
+END
+createCB.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/createCB.c
+END
+doCPLC.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/doCPLC.h
+END
+packing.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/packing.c
+END
+StateConstructW.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/StateConstructW.c
+END
+createCB.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/createCB.h
+END
+packing.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/packing.h
+END
+StateConstructW.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/StateConstructW.h
+END
+LPCdecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/LPCdecode.c
+END
+lsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/lsf.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/filter.c
+END
+iLBC_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iLBC_encode.c
+END
+LPCdecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/LPCdecode.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/Makefile.am
+END
+hpOutput.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/hpOutput.c
+END
+FrameClassify.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/FrameClassify.c
+END
+iLBC_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iLBC_define.h
+END
+lsf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/lsf.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/filter.h
+END
+iLBC_encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iLBC_encode.h
+END
+hpOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/hpOutput.h
+END
+StateSearchW.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/StateSearchW.c
+END
+FrameClassify.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/FrameClassify.h
+END
+helpfun.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/helpfun.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/Makefile.in
+END
+StateSearchW.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/StateSearchW.h
+END
+iCBConstruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iCBConstruct.c
+END
+syntFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/syntFilter.c
+END
+anaFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/anaFilter.c
+END
+helpfun.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/helpfun.h
+END
+iCBConstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iCBConstruct.h
+END
+syntFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/syntFilter.h
+END
+anaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/anaFilter.h
+END
+iLBC_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iLBC_decode.c
+END
+constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/constants.c
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/constants.h
+END
+iLBC_decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iLBC_decode.h
+END
+getCBvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/getCBvec.c
+END
+enhancer.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/enhancer.c
+END
+iCBSearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iCBSearch.c
+END
+gainquant.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/gainquant.c
+END
+hpInput.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/hpInput.c
+END
+getCBvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/getCBvec.h
+END
+enhancer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/enhancer.h
+END
+iCBSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/iCBSearch.h
+END
+hpInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/hpInput.h
+END
+LPCencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/LPCencode.c
+END
+gainquant.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/gainquant.h
+END
+LPCencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/ilbc-rfc3951/ilbc/LPCencode.h
+END

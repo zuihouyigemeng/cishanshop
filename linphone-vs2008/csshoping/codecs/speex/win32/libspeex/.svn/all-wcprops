@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex
+END
+libspeex.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex/libspeex.dsp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex/Makefile.in
+END
+libspeex_dynamic.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex/libspeex_dynamic.dsp
+END
+libspeex.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex/libspeex.dsw
+END
+libspeexdsp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex/libspeexdsp.dsp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex/Makefile.am
+END
+libspeexdsp_dynamic.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/codecs/speex/win32/libspeex/libspeexdsp_dynamic.dsp
+END

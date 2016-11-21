@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/mediastreamer2/src/plugins
+END
+bv16.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/mediastreamer2/src/plugins/bv16.c
+END
+msx264.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/mediastreamer2/src/plugins/msx264.c
+END
+msg726.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/mediastreamer2/src/plugins/msg726.c
+END
+msilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/mediastreamer2/src/plugins/msilbc.c
+END
+bv32.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/mediastreamer2/src/plugins/bv32.c
+END

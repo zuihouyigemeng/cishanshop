@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian
+END
+libbroadvoice-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/libbroadvoice-dev.install
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/watch
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/rules
+END
+libbroadvoice1.install
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/libbroadvoice1.install
+END
+libbroadvoice-doc.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/libbroadvoice-doc.install
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/codecs/broadvoice/debian/compat
+END

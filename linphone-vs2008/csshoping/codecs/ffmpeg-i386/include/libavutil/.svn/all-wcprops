@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil
+END
+avutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/avutil.h
+END
+lzo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/lzo.h
+END
+pixfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/pixfmt.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/crc.h
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/rational.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/mem.h
+END
+random_seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/random_seed.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/log.h
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/fifo.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/base64.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/md5.h
+END
+intfloat_readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/intfloat_readwrite.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/attributes.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/eval.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/common.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/error.h
+END
+avconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/avconfig.h
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/adler32.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/sha1.h
+END
+avstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/avstring.h
+END
+mathematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/mathematics.h
+END
+pixdesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/include/libavutil/pixdesc.h
+END

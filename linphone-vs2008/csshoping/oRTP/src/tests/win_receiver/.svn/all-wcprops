@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_receiver
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_receiver/Makefile.am
+END
+RTPReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_receiver/RTPReceiver.cpp
+END
+RTPReceiver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_receiver/RTPReceiver.vcproj
+END

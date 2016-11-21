@@ -1,0 +1,826 @@
+/********************************************************************************
+** Form generated from reading UI file 'myshopping.ui'
+**
+** Created: Mon May 18 10:07:15 2015
+**      by: Qt User Interface Compiler version 4.7.0
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_MYSHOPPING_H
+#define UI_MYSHOPPING_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QComboBox>
+#include <QtGui/QDateEdit>
+#include <QtGui/QGroupBox>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QLineEdit>
+#include <QtGui/QListView>
+#include <QtGui/QPushButton>
+#include <QtGui/QSpacerItem>
+#include <QtGui/QStackedWidget>
+#include <QtGui/QTableView>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_MyShoppingClass
+{
+public:
+    QHBoxLayout *horizontalLayout_6;
+    QHBoxLayout *horizontalLayout_5;
+    QVBoxLayout *verticalLayout;
+    QPushButton *homeBtn;
+    QPushButton *addGoodsBtn;
+    QPushButton *HistoryBtn;
+    QLabel *statelabel;
+    QLabel *callStateLabel;
+    QStackedWidget *stackedWidget;
+    QWidget *page;
+    QVBoxLayout *verticalLayout_2;
+    QVBoxLayout *verticalLayout_3;
+    QLabel *label;
+    QTableView *tableView;
+    QHBoxLayout *horizontalLayout;
+    QGroupBox *groupBox_2;
+    QHBoxLayout *horizontalLayout_2;
+    QListView *listView;
+    QGroupBox *groupBox;
+    QLabel *label_13;
+    QLineEdit *lineEdit_7;
+    QLabel *label_14;
+    QLabel *label_4;
+    QLabel *label_3;
+    QLineEdit *lineEdit;
+    QLineEdit *lineEdit_3;
+    QLineEdit *lineEdit_8;
+    QLabel *label_12;
+    QComboBox *comboBox;
+    QPushButton *sendBtn;
+    QPushButton *sipcallBtn;
+    QPushButton *pushButton;
+    QPushButton *siphungupBtn;
+    QWidget *page_3;
+    QVBoxLayout *verticalLayout_8;
+    QLabel *label_7;
+    QTableView *tableView_3;
+    QHBoxLayout *horizontalLayout_16;
+    QVBoxLayout *verticalLayout_6;
+    QLabel *label_8;
+    QTableView *tableView_4;
+    QVBoxLayout *verticalLayout_7;
+    QHBoxLayout *horizontalLayout_7;
+    QLabel *label_9;
+    QLineEdit *lineEdit_6;
+    QHBoxLayout *horizontalLayout_8;
+    QLabel *label_11;
+    QLineEdit *lineEdit_5;
+    QHBoxLayout *horizontalLayout_9;
+    QLabel *label_10;
+    QLineEdit *lineEdit_4;
+    QHBoxLayout *horizontalLayout_10;
+    QSpacerItem *horizontalSpacer_13;
+    QSpacerItem *horizontalSpacer_15;
+    QSpacerItem *horizontalSpacer_14;
+    QSpacerItem *horizontalSpacer_11;
+    QPushButton *addClassBtn;
+    QSpacerItem *horizontalSpacer_12;
+    QWidget *page_2;
+    QVBoxLayout *verticalLayout_9;
+    QLabel *label_6;
+    QTableView *tableHistoryView;
+    QHBoxLayout *horizontalLayout_15;
+    QSpacerItem *horizontalSpacer_5;
+    QLabel *label_19;
+    QComboBox *queryComboBox;
+    QLabel *label_16;
+    QDateEdit *startDateEdit;
+    QLabel *label_17;
+    QDateEdit *endDateEdit;
+    QLabel *label_18;
+    QComboBox *modelComboBox;
+    QPushButton *productQueryBtn;
+
+    void setupUi(QWidget *MyShoppingClass)
+    {
+        if (MyShoppingClass->objectName().isEmpty())
+            MyShoppingClass->setObjectName(QString::fromUtf8("MyShoppingClass"));
+        MyShoppingClass->resize(990, 596);
+        MyShoppingClass->setAutoFillBackground(false);
+        MyShoppingClass->setStyleSheet(QString::fromUtf8("background-color: rgb(232, 232, 232);"));
+        horizontalLayout_6 = new QHBoxLayout(MyShoppingClass);
+        horizontalLayout_6->setSpacing(6);
+        horizontalLayout_6->setContentsMargins(11, 11, 11, 11);
+        horizontalLayout_6->setObjectName(QString::fromUtf8("horizontalLayout_6"));
+        horizontalLayout_5 = new QHBoxLayout();
+        horizontalLayout_5->setSpacing(6);
+        horizontalLayout_5->setObjectName(QString::fromUtf8("horizontalLayout_5"));
+
+        horizontalLayout_6->addLayout(horizontalLayout_5);
+
+        verticalLayout = new QVBoxLayout();
+        verticalLayout->setSpacing(6);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        homeBtn = new QPushButton(MyShoppingClass);
+        homeBtn->setObjectName(QString::fromUtf8("homeBtn"));
+        QSizePolicy sizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(homeBtn->sizePolicy().hasHeightForWidth());
+        homeBtn->setSizePolicy(sizePolicy);
+        homeBtn->setMinimumSize(QSize(202, 42));
+        homeBtn->setMaximumSize(QSize(202, 42));
+        QFont font;
+        font.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font.setPointSize(14);
+        font.setBold(true);
+        font.setWeight(75);
+        homeBtn->setFont(font);
+        homeBtn->setLayoutDirection(Qt::LeftToRight);
+        homeBtn->setAutoFillBackground(false);
+        homeBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+        homeBtn->setAutoRepeatDelay(300);
+
+        verticalLayout->addWidget(homeBtn);
+
+        addGoodsBtn = new QPushButton(MyShoppingClass);
+        addGoodsBtn->setObjectName(QString::fromUtf8("addGoodsBtn"));
+        QSizePolicy sizePolicy1(QSizePolicy::Expanding, QSizePolicy::Expanding);
+        sizePolicy1.setHorizontalStretch(0);
+        sizePolicy1.setVerticalStretch(20);
+        sizePolicy1.setHeightForWidth(addGoodsBtn->sizePolicy().hasHeightForWidth());
+        addGoodsBtn->setSizePolicy(sizePolicy1);
+        addGoodsBtn->setMaximumSize(QSize(200, 40));
+        addGoodsBtn->setFont(font);
+        addGoodsBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+        addGoodsBtn->setIconSize(QSize(28, 28));
+
+        verticalLayout->addWidget(addGoodsBtn);
+
+        HistoryBtn = new QPushButton(MyShoppingClass);
+        HistoryBtn->setObjectName(QString::fromUtf8("HistoryBtn"));
+        QSizePolicy sizePolicy2(QSizePolicy::Expanding, QSizePolicy::Expanding);
+        sizePolicy2.setHorizontalStretch(0);
+        sizePolicy2.setVerticalStretch(0);
+        sizePolicy2.setHeightForWidth(HistoryBtn->sizePolicy().hasHeightForWidth());
+        HistoryBtn->setSizePolicy(sizePolicy2);
+        HistoryBtn->setMaximumSize(QSize(200, 40));
+        HistoryBtn->setFont(font);
+        HistoryBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+        HistoryBtn->setIconSize(QSize(30, 30));
+
+        verticalLayout->addWidget(HistoryBtn);
+
+        statelabel = new QLabel(MyShoppingClass);
+        statelabel->setObjectName(QString::fromUtf8("statelabel"));
+        statelabel->setEnabled(true);
+        sizePolicy2.setHeightForWidth(statelabel->sizePolicy().hasHeightForWidth());
+        statelabel->setSizePolicy(sizePolicy2);
+        statelabel->setMinimumSize(QSize(200, 100));
+        statelabel->setMaximumSize(QSize(200, 200));
+
+        verticalLayout->addWidget(statelabel);
+
+        callStateLabel = new QLabel(MyShoppingClass);
+        callStateLabel->setObjectName(QString::fromUtf8("callStateLabel"));
+        sizePolicy2.setHeightForWidth(callStateLabel->sizePolicy().hasHeightForWidth());
+        callStateLabel->setSizePolicy(sizePolicy2);
+        callStateLabel->setMaximumSize(QSize(200, 20));
+
+        verticalLayout->addWidget(callStateLabel);
+
+
+        horizontalLayout_6->addLayout(verticalLayout);
+
+        stackedWidget = new QStackedWidget(MyShoppingClass);
+        stackedWidget->setObjectName(QString::fromUtf8("stackedWidget"));
+        QSizePolicy sizePolicy3(QSizePolicy::Preferred, QSizePolicy::Preferred);
+        sizePolicy3.setHorizontalStretch(0);
+        sizePolicy3.setVerticalStretch(0);
+        sizePolicy3.setHeightForWidth(stackedWidget->sizePolicy().hasHeightForWidth());
+        stackedWidget->setSizePolicy(sizePolicy3);
+        page = new QWidget();
+        page->setObjectName(QString::fromUtf8("page"));
+        verticalLayout_2 = new QVBoxLayout(page);
+        verticalLayout_2->setSpacing(6);
+        verticalLayout_2->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_2->setObjectName(QString::fromUtf8("verticalLayout_2"));
+        verticalLayout_3 = new QVBoxLayout();
+        verticalLayout_3->setSpacing(6);
+        verticalLayout_3->setObjectName(QString::fromUtf8("verticalLayout_3"));
+        label = new QLabel(page);
+        label->setObjectName(QString::fromUtf8("label"));
+        QFont font1;
+        font1.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font1.setPointSize(14);
+        font1.setBold(true);
+        font1.setItalic(false);
+        font1.setWeight(75);
+        label->setFont(font1);
+
+        verticalLayout_3->addWidget(label);
+
+        tableView = new QTableView(page);
+        tableView->setObjectName(QString::fromUtf8("tableView"));
+        tableView->setMinimumSize(QSize(0, 0));
+        QFont font2;
+        font2.setPointSize(10);
+        tableView->setFont(font2);
+        tableView->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        verticalLayout_3->addWidget(tableView);
+
+
+        verticalLayout_2->addLayout(verticalLayout_3);
+
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setSpacing(6);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        groupBox_2 = new QGroupBox(page);
+        groupBox_2->setObjectName(QString::fromUtf8("groupBox_2"));
+        groupBox_2->setMinimumSize(QSize(0, 280));
+        groupBox_2->setMaximumSize(QSize(16777215, 280));
+        horizontalLayout_2 = new QHBoxLayout(groupBox_2);
+        horizontalLayout_2->setSpacing(6);
+        horizontalLayout_2->setContentsMargins(11, 11, 11, 11);
+        horizontalLayout_2->setObjectName(QString::fromUtf8("horizontalLayout_2"));
+        listView = new QListView(groupBox_2);
+        listView->setObjectName(QString::fromUtf8("listView"));
+        listView->setMinimumSize(QSize(0, 0));
+        listView->setMaximumSize(QSize(16777215, 280));
+        listView->setStyleSheet(QString::fromUtf8("background-color: rgb(249, 255, 255);"));
+
+        horizontalLayout_2->addWidget(listView);
+
+        listView->raise();
+        listView->raise();
+        listView->raise();
+
+        horizontalLayout->addWidget(groupBox_2);
+
+        groupBox = new QGroupBox(page);
+        groupBox->setObjectName(QString::fromUtf8("groupBox"));
+        groupBox->setMinimumSize(QSize(470, 280));
+        groupBox->setMaximumSize(QSize(470, 280));
+        label_13 = new QLabel(groupBox);
+        label_13->setObjectName(QString::fromUtf8("label_13"));
+        label_13->setGeometry(QRect(30, 30, 85, 16));
+        QSizePolicy sizePolicy4(QSizePolicy::Fixed, QSizePolicy::Preferred);
+        sizePolicy4.setHorizontalStretch(0);
+        sizePolicy4.setVerticalStretch(0);
+        sizePolicy4.setHeightForWidth(label_13->sizePolicy().hasHeightForWidth());
+        label_13->setSizePolicy(sizePolicy4);
+        label_13->setMaximumSize(QSize(85, 16777215));
+        QFont font3;
+        font3.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font3.setPointSize(12);
+        font3.setBold(true);
+        font3.setWeight(75);
+        label_13->setFont(font3);
+        lineEdit_7 = new QLineEdit(groupBox);
+        lineEdit_7->setObjectName(QString::fromUtf8("lineEdit_7"));
+        lineEdit_7->setGeometry(QRect(140, 25, 291, 30));
+        lineEdit_7->setMinimumSize(QSize(0, 30));
+        lineEdit_7->setMaximumSize(QSize(350, 16777215));
+        lineEdit_7->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+        label_14 = new QLabel(groupBox);
+        label_14->setObjectName(QString::fromUtf8("label_14"));
+        label_14->setGeometry(QRect(30, 150, 85, 16));
+        sizePolicy4.setHeightForWidth(label_14->sizePolicy().hasHeightForWidth());
+        label_14->setSizePolicy(sizePolicy4);
+        label_14->setMaximumSize(QSize(85, 16777215));
+        label_14->setFont(font3);
+        label_4 = new QLabel(groupBox);
+        label_4->setObjectName(QString::fromUtf8("label_4"));
+        label_4->setGeometry(QRect(30, 70, 85, 16));
+        sizePolicy4.setHeightForWidth(label_4->sizePolicy().hasHeightForWidth());
+        label_4->setSizePolicy(sizePolicy4);
+        label_4->setMaximumSize(QSize(85, 16777215));
+        label_4->setFont(font3);
+        label_3 = new QLabel(groupBox);
+        label_3->setObjectName(QString::fromUtf8("label_3"));
+        label_3->setGeometry(QRect(30, 110, 85, 16));
+        sizePolicy4.setHeightForWidth(label_3->sizePolicy().hasHeightForWidth());
+        label_3->setSizePolicy(sizePolicy4);
+        label_3->setMaximumSize(QSize(85, 16777215));
+        label_3->setFont(font3);
+        lineEdit = new QLineEdit(groupBox);
+        lineEdit->setObjectName(QString::fromUtf8("lineEdit"));
+        lineEdit->setGeometry(QRect(140, 64, 291, 30));
+        QSizePolicy sizePolicy5(QSizePolicy::Expanding, QSizePolicy::Fixed);
+        sizePolicy5.setHorizontalStretch(0);
+        sizePolicy5.setVerticalStretch(0);
+        sizePolicy5.setHeightForWidth(lineEdit->sizePolicy().hasHeightForWidth());
+        lineEdit->setSizePolicy(sizePolicy5);
+        lineEdit->setMinimumSize(QSize(0, 30));
+        lineEdit->setMaximumSize(QSize(350, 16777215));
+        lineEdit->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+        lineEdit_3 = new QLineEdit(groupBox);
+        lineEdit_3->setObjectName(QString::fromUtf8("lineEdit_3"));
+        lineEdit_3->setGeometry(QRect(140, 102, 291, 30));
+        lineEdit_3->setMinimumSize(QSize(0, 30));
+        lineEdit_3->setMaximumSize(QSize(350, 16777215));
+        lineEdit_3->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+        lineEdit_8 = new QLineEdit(groupBox);
+        lineEdit_8->setObjectName(QString::fromUtf8("lineEdit_8"));
+        lineEdit_8->setGeometry(QRect(140, 140, 291, 30));
+        lineEdit_8->setMinimumSize(QSize(0, 30));
+        lineEdit_8->setMaximumSize(QSize(350, 16777215));
+        lineEdit_8->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+        label_12 = new QLabel(groupBox);
+        label_12->setObjectName(QString::fromUtf8("label_12"));
+        label_12->setGeometry(QRect(30, 190, 85, 16));
+        sizePolicy4.setHeightForWidth(label_12->sizePolicy().hasHeightForWidth());
+        label_12->setSizePolicy(sizePolicy4);
+        label_12->setMinimumSize(QSize(0, 0));
+        label_12->setMaximumSize(QSize(250, 16777215));
+        label_12->setFont(font3);
+        comboBox = new QComboBox(groupBox);
+        comboBox->setObjectName(QString::fromUtf8("comboBox"));
+        comboBox->setGeometry(QRect(140, 182, 191, 25));
+        comboBox->setMinimumSize(QSize(130, 25));
+        comboBox->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+        sendBtn = new QPushButton(groupBox);
+        sendBtn->setObjectName(QString::fromUtf8("sendBtn"));
+        sendBtn->setGeometry(QRect(340, 180, 90, 30));
+        sizePolicy.setHeightForWidth(sendBtn->sizePolicy().hasHeightForWidth());
+        sendBtn->setSizePolicy(sizePolicy);
+        sendBtn->setMinimumSize(QSize(90, 30));
+        sendBtn->setMaximumSize(QSize(100, 16777215));
+        QFont font4;
+        font4.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font4.setPointSize(11);
+        font4.setBold(true);
+        font4.setWeight(75);
+        sendBtn->setFont(font4);
+        sendBtn->setLayoutDirection(Qt::LeftToRight);
+        sendBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+        sipcallBtn = new QPushButton(groupBox);
+        sipcallBtn->setObjectName(QString::fromUtf8("sipcallBtn"));
+        sipcallBtn->setEnabled(false);
+        sipcallBtn->setGeometry(QRect(90, 230, 110, 30));
+        sipcallBtn->setMinimumSize(QSize(110, 30));
+        sipcallBtn->setFont(font3);
+        sipcallBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+        pushButton = new QPushButton(groupBox);
+        pushButton->setObjectName(QString::fromUtf8("pushButton"));
+        pushButton->setGeometry(QRect(322, 230, 110, 30));
+        sizePolicy.setHeightForWidth(pushButton->sizePolicy().hasHeightForWidth());
+        pushButton->setSizePolicy(sizePolicy);
+        pushButton->setMinimumSize(QSize(110, 30));
+        QFont font5;
+        font5.setFamily(QString::fromUtf8("\351\273\221\344\275\223"));
+        font5.setPointSize(12);
+        font5.setBold(true);
+        font5.setItalic(false);
+        font5.setUnderline(false);
+        font5.setWeight(75);
+        font5.setStrikeOut(false);
+        pushButton->setFont(font5);
+        pushButton->setAutoFillBackground(false);
+        pushButton->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+        pushButton->setCheckable(false);
+        siphungupBtn = new QPushButton(groupBox);
+        siphungupBtn->setObjectName(QString::fromUtf8("siphungupBtn"));
+        siphungupBtn->setEnabled(false);
+        siphungupBtn->setGeometry(QRect(206, 230, 110, 30));
+        siphungupBtn->setMinimumSize(QSize(110, 30));
+        siphungupBtn->setFont(font3);
+        siphungupBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+        label_13->raise();
+        lineEdit_7->raise();
+        label_14->raise();
+        label_4->raise();
+        label_3->raise();
+        lineEdit->raise();
+        lineEdit_3->raise();
+        lineEdit_8->raise();
+        label_12->raise();
+        comboBox->raise();
+        sendBtn->raise();
+        sipcallBtn->raise();
+        pushButton->raise();
+        siphungupBtn->raise();
+        groupBox_2->raise();
+        groupBox_2->raise();
+
+        horizontalLayout->addWidget(groupBox);
+
+
+        verticalLayout_2->addLayout(horizontalLayout);
+
+        stackedWidget->addWidget(page);
+        page_3 = new QWidget();
+        page_3->setObjectName(QString::fromUtf8("page_3"));
+        verticalLayout_8 = new QVBoxLayout(page_3);
+        verticalLayout_8->setSpacing(6);
+        verticalLayout_8->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_8->setObjectName(QString::fromUtf8("verticalLayout_8"));
+        label_7 = new QLabel(page_3);
+        label_7->setObjectName(QString::fromUtf8("label_7"));
+
+        verticalLayout_8->addWidget(label_7);
+
+        tableView_3 = new QTableView(page_3);
+        tableView_3->setObjectName(QString::fromUtf8("tableView_3"));
+        tableView_3->setAutoFillBackground(false);
+        tableView_3->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        verticalLayout_8->addWidget(tableView_3);
+
+        horizontalLayout_16 = new QHBoxLayout();
+        horizontalLayout_16->setSpacing(6);
+        horizontalLayout_16->setObjectName(QString::fromUtf8("horizontalLayout_16"));
+        verticalLayout_6 = new QVBoxLayout();
+        verticalLayout_6->setSpacing(6);
+        verticalLayout_6->setObjectName(QString::fromUtf8("verticalLayout_6"));
+        label_8 = new QLabel(page_3);
+        label_8->setObjectName(QString::fromUtf8("label_8"));
+
+        verticalLayout_6->addWidget(label_8);
+
+        tableView_4 = new QTableView(page_3);
+        tableView_4->setObjectName(QString::fromUtf8("tableView_4"));
+        tableView_4->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        verticalLayout_6->addWidget(tableView_4);
+
+
+        horizontalLayout_16->addLayout(verticalLayout_6);
+
+        verticalLayout_7 = new QVBoxLayout();
+        verticalLayout_7->setSpacing(6);
+        verticalLayout_7->setObjectName(QString::fromUtf8("verticalLayout_7"));
+        horizontalLayout_7 = new QHBoxLayout();
+        horizontalLayout_7->setSpacing(6);
+        horizontalLayout_7->setObjectName(QString::fromUtf8("horizontalLayout_7"));
+        label_9 = new QLabel(page_3);
+        label_9->setObjectName(QString::fromUtf8("label_9"));
+
+        horizontalLayout_7->addWidget(label_9);
+
+        lineEdit_6 = new QLineEdit(page_3);
+        lineEdit_6->setObjectName(QString::fromUtf8("lineEdit_6"));
+        lineEdit_6->setMinimumSize(QSize(0, 25));
+        lineEdit_6->setMaximumSize(QSize(250, 16777215));
+        lineEdit_6->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_7->addWidget(lineEdit_6);
+
+
+        verticalLayout_7->addLayout(horizontalLayout_7);
+
+        horizontalLayout_8 = new QHBoxLayout();
+        horizontalLayout_8->setSpacing(6);
+        horizontalLayout_8->setObjectName(QString::fromUtf8("horizontalLayout_8"));
+        label_11 = new QLabel(page_3);
+        label_11->setObjectName(QString::fromUtf8("label_11"));
+
+        horizontalLayout_8->addWidget(label_11);
+
+        lineEdit_5 = new QLineEdit(page_3);
+        lineEdit_5->setObjectName(QString::fromUtf8("lineEdit_5"));
+        lineEdit_5->setMinimumSize(QSize(0, 25));
+        lineEdit_5->setMaximumSize(QSize(250, 16777215));
+        lineEdit_5->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_8->addWidget(lineEdit_5);
+
+
+        verticalLayout_7->addLayout(horizontalLayout_8);
+
+        horizontalLayout_9 = new QHBoxLayout();
+        horizontalLayout_9->setSpacing(6);
+        horizontalLayout_9->setObjectName(QString::fromUtf8("horizontalLayout_9"));
+        label_10 = new QLabel(page_3);
+        label_10->setObjectName(QString::fromUtf8("label_10"));
+
+        horizontalLayout_9->addWidget(label_10);
+
+        lineEdit_4 = new QLineEdit(page_3);
+        lineEdit_4->setObjectName(QString::fromUtf8("lineEdit_4"));
+        lineEdit_4->setMinimumSize(QSize(0, 25));
+        lineEdit_4->setMaximumSize(QSize(250, 16777215));
+        lineEdit_4->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_9->addWidget(lineEdit_4);
+
+
+        verticalLayout_7->addLayout(horizontalLayout_9);
+
+        horizontalLayout_10 = new QHBoxLayout();
+        horizontalLayout_10->setSpacing(6);
+        horizontalLayout_10->setObjectName(QString::fromUtf8("horizontalLayout_10"));
+        horizontalSpacer_13 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_13);
+
+        horizontalSpacer_15 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_15);
+
+        horizontalSpacer_14 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_14);
+
+        horizontalSpacer_11 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_11);
+
+        addClassBtn = new QPushButton(page_3);
+        addClassBtn->setObjectName(QString::fromUtf8("addClassBtn"));
+        addClassBtn->setMaximumSize(QSize(200, 16777215));
+        addClassBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	background-color: rgb(230, 255, 188);\n"
+"color: rgb(0, 0, 0); \n"
+"}\n"
+"QPushButton:hover {background-color: rgb(131, 158, 255);  }\n"
+""));
+
+        horizontalLayout_10->addWidget(addClassBtn);
+
+        horizontalSpacer_12 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_10->addItem(horizontalSpacer_12);
+
+
+        verticalLayout_7->addLayout(horizontalLayout_10);
+
+
+        horizontalLayout_16->addLayout(verticalLayout_7);
+
+
+        verticalLayout_8->addLayout(horizontalLayout_16);
+
+        stackedWidget->addWidget(page_3);
+        page_2 = new QWidget();
+        page_2->setObjectName(QString::fromUtf8("page_2"));
+        verticalLayout_9 = new QVBoxLayout(page_2);
+        verticalLayout_9->setSpacing(6);
+        verticalLayout_9->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_9->setObjectName(QString::fromUtf8("verticalLayout_9"));
+        label_6 = new QLabel(page_2);
+        label_6->setObjectName(QString::fromUtf8("label_6"));
+        label_6->setFont(font);
+
+        verticalLayout_9->addWidget(label_6);
+
+        tableHistoryView = new QTableView(page_2);
+        tableHistoryView->setObjectName(QString::fromUtf8("tableHistoryView"));
+        tableHistoryView->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        verticalLayout_9->addWidget(tableHistoryView);
+
+        horizontalLayout_15 = new QHBoxLayout();
+        horizontalLayout_15->setSpacing(6);
+        horizontalLayout_15->setObjectName(QString::fromUtf8("horizontalLayout_15"));
+        horizontalSpacer_5 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_15->addItem(horizontalSpacer_5);
+
+        label_19 = new QLabel(page_2);
+        label_19->setObjectName(QString::fromUtf8("label_19"));
+        label_19->setMinimumSize(QSize(0, 25));
+
+        horizontalLayout_15->addWidget(label_19);
+
+        queryComboBox = new QComboBox(page_2);
+        queryComboBox->setObjectName(QString::fromUtf8("queryComboBox"));
+        queryComboBox->setMinimumSize(QSize(0, 25));
+        queryComboBox->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_15->addWidget(queryComboBox);
+
+        label_16 = new QLabel(page_2);
+        label_16->setObjectName(QString::fromUtf8("label_16"));
+        label_16->setMinimumSize(QSize(0, 25));
+
+        horizontalLayout_15->addWidget(label_16);
+
+        startDateEdit = new QDateEdit(page_2);
+        startDateEdit->setObjectName(QString::fromUtf8("startDateEdit"));
+        startDateEdit->setMinimumSize(QSize(0, 25));
+        startDateEdit->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_15->addWidget(startDateEdit);
+
+        label_17 = new QLabel(page_2);
+        label_17->setObjectName(QString::fromUtf8("label_17"));
+        label_17->setMinimumSize(QSize(0, 25));
+
+        horizontalLayout_15->addWidget(label_17);
+
+        endDateEdit = new QDateEdit(page_2);
+        endDateEdit->setObjectName(QString::fromUtf8("endDateEdit"));
+        endDateEdit->setMinimumSize(QSize(0, 25));
+        endDateEdit->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_15->addWidget(endDateEdit);
+
+        label_18 = new QLabel(page_2);
+        label_18->setObjectName(QString::fromUtf8("label_18"));
+        label_18->setMinimumSize(QSize(0, 25));
+
+        horizontalLayout_15->addWidget(label_18);
+
+        modelComboBox = new QComboBox(page_2);
+        modelComboBox->setObjectName(QString::fromUtf8("modelComboBox"));
+        modelComboBox->setMinimumSize(QSize(100, 25));
+        modelComboBox->setStyleSheet(QString::fromUtf8("background-color: rgb(255, 255, 255);"));
+
+        horizontalLayout_15->addWidget(modelComboBox);
+
+        productQueryBtn = new QPushButton(page_2);
+        productQueryBtn->setObjectName(QString::fromUtf8("productQueryBtn"));
+        productQueryBtn->setMinimumSize(QSize(50, 30));
+        productQueryBtn->setStyleSheet(QString::fromUtf8("QPushButton { \n"
+"	border-image: url(:/MyShopping/anniu_1.png);\n"
+"	background-image: url(:/MyShopping/anniu_1.png);\n"
+"	color: rgb(74,74,74);\n"
+"}\n"
+"QPushButton:hover { \n"
+"background-image: url(:/MyShopping/anniu_2.png);\n"
+"border-image: url(:/MyShopping/anniu_2.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}\n"
+"\n"
+"QPushButton:pressed {\n"
+"background-image: url(:/MyShopping/anniu_3.png);\n"
+"border-image: url(:/MyShopping/anniu_3.png);\n"
+"color: rgb(255, 255, 255);\n"
+"}"));
+
+        horizontalLayout_15->addWidget(productQueryBtn);
+
+
+        verticalLayout_9->addLayout(horizontalLayout_15);
+
+        stackedWidget->addWidget(page_2);
+
+        horizontalLayout_6->addWidget(stackedWidget);
+
+
+        retranslateUi(MyShoppingClass);
+
+        stackedWidget->setCurrentIndex(0);
+
+
+        QMetaObject::connectSlotsByName(MyShoppingClass);
+    } // setupUi
+
+    void retranslateUi(QWidget *MyShoppingClass)
+    {
+        MyShoppingClass->setWindowTitle(QApplication::translate("MyShoppingClass", "\346\210\221\347\232\204\350\266\205\345\270\202", 0, QApplication::UnicodeUTF8));
+        homeBtn->setText(QApplication::translate("MyShoppingClass", " \350\256\242\350\264\255\344\277\241\346\201\257", 0, QApplication::UnicodeUTF8));
+        addGoodsBtn->setText(QApplication::translate("MyShoppingClass", " \345\225\206\345\223\201\347\256\241\347\220\206", 0, QApplication::UnicodeUTF8));
+        HistoryBtn->setText(QApplication::translate("MyShoppingClass", " \345\216\206\345\217\262\350\256\242\345\215\225", 0, QApplication::UnicodeUTF8));
+        statelabel->setText(QString());
+        callStateLabel->setText(QApplication::translate("MyShoppingClass", "\347\224\265\350\257\235\345\221\274\345\217\253\347\212\266\346\200\201", 0, QApplication::UnicodeUTF8));
+        label->setText(QApplication::translate("MyShoppingClass", "\347\224\250\346\210\267\345\256\232\350\264\255\345\225\206\345\223\201\345\210\227\350\241\250", 0, QApplication::UnicodeUTF8));
+        groupBox_2->setTitle(QApplication::translate("MyShoppingClass", "\345\225\206\345\223\201\350\257\246\347\273\206\344\277\241\346\201\257", 0, QApplication::UnicodeUTF8));
+        groupBox->setTitle(QApplication::translate("MyShoppingClass", "\350\256\242\350\264\255\350\257\246\347\273\206\344\277\241\346\201\257", 0, QApplication::UnicodeUTF8));
+        label_13->setText(QApplication::translate("MyShoppingClass", "\350\264\255\344\271\260\346\227\245\346\234\237\357\274\232", 0, QApplication::UnicodeUTF8));
+        lineEdit_7->setText(QString());
+        label_14->setText(QApplication::translate("MyShoppingClass", "\350\201\224\347\263\273\347\224\265\350\257\235\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_4->setText(QApplication::translate("MyShoppingClass", "\351\200\201\350\264\247\346\226\271\345\274\217\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_3->setText(QApplication::translate("MyShoppingClass", "\344\273\230\346\254\276\346\226\271\345\274\217\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_12->setText(QApplication::translate("MyShoppingClass", "\350\256\242\345\215\225\347\212\266\346\200\201\357\274\232", 0, QApplication::UnicodeUTF8));
+        sendBtn->setText(QApplication::translate("MyShoppingClass", "\344\277\256 \346\224\271", 0, QApplication::UnicodeUTF8));
+        sipcallBtn->setText(QApplication::translate("MyShoppingClass", "\345\221\274 \345\217\253", 0, QApplication::UnicodeUTF8));
+        pushButton->setText(QApplication::translate("MyShoppingClass", "\351\205\215  \351\200\201", 0, QApplication::UnicodeUTF8));
+        siphungupBtn->setText(QApplication::translate("MyShoppingClass", "\346\214\202 \346\226\255", 0, QApplication::UnicodeUTF8));
+        label_7->setText(QApplication::translate("MyShoppingClass", "\351\242\204\347\272\246\351\241\276\345\256\242\350\256\242\345\215\225", 0, QApplication::UnicodeUTF8));
+        label_8->setText(QApplication::translate("MyShoppingClass", "\351\241\276\345\256\242\351\242\204\347\272\246\350\256\242\345\215\225", 0, QApplication::UnicodeUTF8));
+        label_9->setText(QApplication::translate("MyShoppingClass", "\351\241\276\345\256\242\347\224\265\350\257\235\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_11->setText(QApplication::translate("MyShoppingClass", "\351\205\215\351\200\201\345\234\260\345\235\200\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_10->setText(QApplication::translate("MyShoppingClass", "\345\225\206\345\223\201\346\200\273\344\273\267\357\274\232", 0, QApplication::UnicodeUTF8));
+        addClassBtn->setText(QApplication::translate("MyShoppingClass", "\347\241\256\350\256\244\351\205\215\351\200\201", 0, QApplication::UnicodeUTF8));
+        label_6->setText(QApplication::translate("MyShoppingClass", "\351\205\215\351\200\201\345\216\206\345\217\262\350\256\242\345\215\225\346\237\245\350\257\242", 0, QApplication::UnicodeUTF8));
+        label_19->setText(QApplication::translate("MyShoppingClass", "\346\237\245\350\257\242\347\261\273\345\236\213\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_16->setText(QApplication::translate("MyShoppingClass", "\345\274\200\345\247\213\346\227\266\351\227\264\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_17->setText(QApplication::translate("MyShoppingClass", "\347\273\223\346\235\237\346\227\266\351\227\264\357\274\232", 0, QApplication::UnicodeUTF8));
+        label_18->setText(QApplication::translate("MyShoppingClass", "\350\256\242\345\215\225\346\250\241\345\274\217\357\274\232", 0, QApplication::UnicodeUTF8));
+        productQueryBtn->setText(QApplication::translate("MyShoppingClass", "\346\237\245\350\257\242", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class MyShoppingClass: public Ui_MyShoppingClass {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_MYSHOPPING_H

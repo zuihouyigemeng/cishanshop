@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_sender
+END
+RTPSender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_sender/RTPSender.cpp
+END
+RTPSender.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_sender/RTPSender.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/oRTP/src/tests/win_sender/Makefile.am
+END

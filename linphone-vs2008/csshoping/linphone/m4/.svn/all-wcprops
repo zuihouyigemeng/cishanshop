@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3/trunk/linphone/m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/lib-link.m4
+END
+xsize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/linphone/m4/xsize.m4
+END
+printf-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/m4/printf-posix.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/m4/lcmessage.m4
+END
+ulonglong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/m4/ulonglong.m4
+END
+video.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/linphone/m4/video.m4
+END
+signed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/linphone/m4/signed.m4
+END
+osip.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/linphone/m4/osip.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/linphone/m4/intdiv0.m4
+END
+isc-posix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/m4/isc-posix.m4
+END
+longlong.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/longlong.m4
+END
+inttypes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/inttypes.m4
+END
+readline.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/readline.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/linphone/m4/gettext.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/m4/inttypes_h.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/m4/visibility.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/linphone/m4/wchar_t.m4
+END
+lock.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/linphone/m4/lock.m4
+END
+longdouble.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/m4/longdouble.m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/linphone/m4/intmax.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/m4/lib-prefix.m4
+END
+glibc2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/linphone/m4/glibc2.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/linphone/m4/lib-ld.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/linphone/m4/wint_t.m4
+END
+intldir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/linphone/m4/intldir.m4
+END
+intl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/linphone/m4/intl.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/progtest.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/m4/inttypes-pri.m4
+END
+exosip.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/linphone/m4/exosip.m4
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/m4/uintmax_t.m4
+END
+ilbc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/linphone/m4/ilbc.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/stdint_h.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/linphone/m4/iconv.m4
+END
+po.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/linphone/m4/po.m4
+END
+size_max.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/size_max.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/linphone/m4/glibc21.m4
+END
+ortp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/linphone/m4/ortp.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/linphone/m4/codeset.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/m4/Makefile.am
+END
+nls.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/linphone/m4/nls.m4
+END

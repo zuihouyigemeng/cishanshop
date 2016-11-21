@@ -1,0 +1,108 @@
+#ifndef SHOPSUBMIT_H
+#define SHOPSUBMIT_H
+
+#include <QWidget>
+#include <QMap>
+#include <QFileDialog>
+#include "ui_shopsubmit.h"
+#include "httpdeal.h"
+#include "common.h"
+#include <QTimer>
+
+
+class shopsubmit : public QWidget
+{
+	Q_OBJECT
+
+public:
+	shopsubmit(QWidget *parent = 0);
+	~shopsubmit();
+
+	int isDigitStr(QString src);
+	void uploadfile(QString filename);
+
+	QTimer *tuanGouTimer;
+
+	//团购倒计时用
+	QString strBuffer1;
+    QDateTime time1;
+    QString strBuffer2;
+    QDateTime time2;
+
+    uint subSecs;
+
+private:
+	Ui::shopsubmit ui;
+	HttpDeal *httpconn;
+
+	QMap<QString,GoogsClass>  map_classinfo;//
+	QMap<QString,ProductInfo>  map_productinfo;//
+
+	//下载分类信息xml
+	QNetworkAccessManager *classConn;
+
+	QNetworkAccessManager *classDelConn; //connect(classDelConn, SIGNAL(finished(QNetworkReply*)),this, SLOT(replyClassDelConn(QNetworkReply* )));
+	//下载产品信息xml
+	QNetworkAccessManager *productConn;
+	//上传图片
+	QNetworkAccessManager *uploadConn;
+
+	//修改产品属性
+	QNetworkAccessManager *productMode;
+
+	//删除修改产品
+	QNetworkAccessManager *productDelConn;
+   
+	//文件对话框
+	QFileDialog* fileDlg;
+
+	void loadXmlClass();
+	void initClassTable();
+
+	void loadXmlProduct();
+	void initProductTable();
+
+	QString selectFile();
+
+	//md5加密字符串生成
+	QString getMd5Check( QString md5key );
+
+private slots:
+	void on_manageBtn_clicked();
+	void on_productBtn_clicked();
+	void on_classOkBtn_clicked();
+	void on_goodsInfoOkBtn_clicked();
+	void on_bigpicBtn_clicked();
+	void on_smallpicBtn_clicked();
+	void on_productModeBtn_clicked();
+	void on_goodsDelBtn_clicked();
+
+
+
+	void on_bigpicBtn_2_clicked();
+	void on_smallpicBtn_2_clicked();
+	void setJiShi();
+
+#if 1
+	void  on_addProductBtn_clicked(); //xgProductBtn
+#endif
+
+	void on_xgClassBtn_clicked();
+	void on_addClassBtn_clicked();
+	void on_classDelBtn_clicked();
+
+	void getClassItem(QTableWidgetItem* item);
+	void getProductItem(QTableWidgetItem* item);
+	void replyClassConn(QNetworkReply *reply);
+	void replyClassDelConn(QNetworkReply *reply);
+
+	void replyProductConn(QNetworkReply* reply );
+	void replyUploadConn(QNetworkReply* reply );
+	void replyProductMode(QNetworkReply* reply );
+	void replyProductDelConn(QNetworkReply* reply);
+
+	
+
+};
+
+#endif // SHOPSUBMIT_H

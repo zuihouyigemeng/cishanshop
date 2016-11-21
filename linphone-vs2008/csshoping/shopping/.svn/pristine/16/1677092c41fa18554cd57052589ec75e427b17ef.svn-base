@@ -1,0 +1,174 @@
+[video]
+enabled=0
+size=cif
+display=0
+capture=0
+show_local=0
+self_view=0
+device=Directshow capture: USB2.0 Camera
+
+[call_log_0]
+dir=1
+status=2
+from="20140002" <sip:20140002@180.153.152.45>
+caller=20140002
+called=20140003
+to=<sip:20140003@10.10.100.1:2638>
+start_date=2015-01-15 16:35:58
+duration=31
+record_file=
+
+[call_log_1]
+dir=0
+status=1
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20012090021
+to=<sip:20012090021@180.153.152.45>
+start_date=2015-01-15 16:35:10
+duration=4
+record_file=
+
+[call_log_2]
+dir=1
+status=2
+from="20140002" <sip:20140002@180.153.152.45>
+caller=20140002
+called=20140003
+to=<sip:20140003@10.10.100.1:1865>
+start_date=2015-01-15 10:30:10
+duration=6
+record_file=
+
+[call_log_3]
+dir=1
+status=2
+from="20140002" <sip:20140002@180.153.152.45>
+caller=20140002
+called=20140003
+to=<sip:20140003@10.10.100.1:1865>
+start_date=2015-01-15 10:26:14
+duration=12
+record_file=
+
+[call_log_4]
+dir=1
+status=0
+from=<sip:20140002@180.153.152.45>
+caller=20140002
+called=20140003
+to=<sip:20140003@10.10.100.1:1984>
+start_date=2015-01-06 16:00:01
+duration=12
+record_file=
+
+[call_log_5]
+dir=1
+status=2
+from=<sip:20140002@180.153.152.45>
+caller=20140002
+called=20140003
+to=<sip:20140003@10.10.100.1:1984>
+start_date=2015-01-06 15:59:57
+duration=1
+record_file=
+
+[call_log_6]
+dir=0
+status=1
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20140002
+to=<sip:20140002@180.153.152.45>
+start_date=2015-01-06 15:59:49
+duration=1
+record_file=
+
+[call_log_7]
+dir=1
+status=0
+from=<sip:20140002@180.153.152.45>
+caller=20140002
+called=20140003
+to=<sip:20140003@10.10.100.1:1984>
+start_date=2015-01-06 15:59:13
+duration=12
+record_file=
+
+[call_log_8]
+dir=0
+status=1
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20140002
+to=<sip:20140002@180.153.152.45>
+start_date=2015-01-06 15:58:51
+duration=0
+record_file=
+
+[call_log_9]
+dir=0
+status=1
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20140002
+to=<sip:20140002@180.153.152.45>
+start_date=2015-01-06 15:58:42
+duration=0
+record_file=
+
+[call_log_10]
+dir=0
+status=1
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20140002
+to=<sip:20140002@180.153.152.45>
+start_date=2015-01-06 15:56:56
+duration=0
+record_file=
+
+[call_log_11]
+dir=0
+status=1
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20140002
+to=<sip:20140002@180.153.152.45>
+start_date=2015-01-06 15:54:27
+duration=0
+record_file=
+
+[call_log_12]
+dir=1
+status=0
+from=<sip:20140002@180.153.152.45>
+caller=20140002
+called=20140003
+to=<sip:20140003@10.10.100.1:1984>
+start_date=2015-01-06 15:53:00
+duration=71
+record_file=
+
+[call_log_13]
+dir=0
+status=0
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20140002
+to=<sip:20140002@180.153.152.45>
+start_date=2015-01-06 15:52:03
+duration=7
+record_file=
+
+[call_log_14]
+dir=0
+status=1
+from=<sip:20140003@180.153.152.45>
+caller=20140003
+called=20140002
+to=<sip:20140002@180.153.152.45>
+start_date=2015-01-06 15:51:24
+duration=0
+record_file=
+

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/7/trunk/oRTP
+END
+ortp.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/ortp.pc.in
+END
+pkg.list
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/oRTP/pkg.list
+END
+oRTP.pws
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/oRTP/oRTP.pws
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3/trunk/oRTP/README
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/oRTP/configure.ac
+END
+ortp.doxygen.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/ortp.doxygen.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/oRTP/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/oRTP/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/oRTP/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/oRTP/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/oRTP/NEWS
+END
+oRTP.prj
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/oRTP/oRTP.prj
+END
+ortp.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/oRTP/ortp.spec.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/oRTP/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/oRTP/ChangeLog
+END

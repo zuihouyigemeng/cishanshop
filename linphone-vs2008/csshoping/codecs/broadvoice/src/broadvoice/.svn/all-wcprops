@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice/version.h
+END
+version.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice/version.h.in
+END
+broadvoice.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/broadvoice/broadvoice.h
+END

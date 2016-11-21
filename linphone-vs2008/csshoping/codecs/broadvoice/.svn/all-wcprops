@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/codecs/broadvoice
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/codecs/broadvoice/INSTALL
+END
+broadvoice.spec
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/broadvoice.spec
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/codecs/broadvoice/COPYING
+END
+configure.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/codecs/broadvoice/configure.gnu
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/broadvoice/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/broadvoice/autogen.sh
+END
+broadvoice.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/broadvoice/broadvoice.spec.in
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/codecs/broadvoice/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/broadvoice/aclocal.m4
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/broadvoice/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/broadvoice/Makefile.in
+END
+broadvoice.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/broadvoice/broadvoice.pc.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/codecs/broadvoice/AUTHORS
+END
+wrapper.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/broadvoice/wrapper.xsl
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/broadvoice/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/codecs/broadvoice/README
+END
+config-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/broadvoice/config-h.in
+END
+.update
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/codecs/broadvoice/.update
+END
+configure-iphone
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/broadvoice/configure-iphone
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/broadvoice/configure.ac
+END

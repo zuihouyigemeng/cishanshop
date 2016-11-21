@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers
+END
+osip_call_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_call_info.h
+END
+osip_call_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_call_id.h
+END
+osip_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_header.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/Makefile.am
+END
+osip_authentication_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_authentication_info.h
+END
+osip_cseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_cseq.h
+END
+osip_contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_contact.h
+END
+osip_proxy_authentication_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_proxy_authentication_info.h
+END
+osip_record_route.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_record_route.h
+END
+osip_mime_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_mime_version.h
+END
+osip_route.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_route.h
+END
+osip_content_disposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_content_disposition.h
+END
+osip_accept.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_accept.h
+END
+osip_authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_authorization.h
+END
+osip_proxy_authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_proxy_authorization.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/Makefile.in
+END
+osip_accept_language.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_accept_language.h
+END
+osip_from.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_from.h
+END
+osip_error_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_error_info.h
+END
+osip_accept_encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_accept_encoding.h
+END
+osip_content_length.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_content_length.h
+END
+osip_content_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_content_type.h
+END
+osip_allow.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_allow.h
+END
+osip_proxy_authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_proxy_authenticate.h
+END
+osip_via.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_via.h
+END
+osip_content_encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_content_encoding.h
+END
+osip_www_authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_www_authenticate.h
+END
+osip_alert_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_alert_info.h
+END
+osip_to.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/headers/osip_to.h
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16
+END
+bv16gaindec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16gaindec.c
+END
+bv16excdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16excdec.c
+END
+bv16postfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16postfilter.c
+END
+bv16externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16externs.h
+END
+bv16ptdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16ptdec.c
+END
+bv16postfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16postfilter.h
+END
+bv16gainquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16gainquan.c
+END
+bv16coarse_pitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16coarse_pitch.c
+END
+bv16excquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16excquan.c
+END
+bv16strct.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16strct.h
+END
+bv16decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16decoder.c
+END
+bv16fine_pitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16fine_pitch.c
+END
+bv16ptquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16ptquan.c
+END
+bv16tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16tables.c
+END
+bv16lspdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16lspdec.c
+END
+bv16cnst.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16cnst.h
+END
+bv16plc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16plc.c
+END
+bv16encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16encoder.c
+END
+bv16levelest.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16levelest.c
+END
+bv16lspquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv16/bv16lspquan.c
+END

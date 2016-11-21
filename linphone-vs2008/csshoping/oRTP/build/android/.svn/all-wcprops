@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/oRTP/build/android
+END
+ortp_AndroidConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/oRTP/build/android/ortp_AndroidConfig.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/oRTP/build/android/Android.mk
+END

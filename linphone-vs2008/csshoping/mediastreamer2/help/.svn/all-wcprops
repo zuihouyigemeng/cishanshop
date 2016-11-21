@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/mediastreamer2/help
+END
+ht0-buildagraph.dox
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/mediastreamer2/help/ht0-buildagraph.dox
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/help/Doxyfile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/help/Makefile.am
+END
+doxygen.dox.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/mediastreamer2/help/doxygen.dox.in
+END

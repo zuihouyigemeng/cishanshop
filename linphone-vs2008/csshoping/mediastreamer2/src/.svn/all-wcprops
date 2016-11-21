@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/mediastreamer2/src
+END
+aqsnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/mediastreamer2/src/aqsnd.c
+END
+audiomixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/audiomixer.c
+END
+msiounit.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msiounit.c
+END
+msvolume.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msvolume.c
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/kiss_fft.c
+END
+msdscap-mingw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/mediastreamer2/src/msdscap-mingw.cc
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/kiss_fft.h
+END
+mssndcard.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/mssndcard.c
+END
+videodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/videodec.c
+END
+wincevideods.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/mediastreamer2/src/wincevideods.c
+END
+dtmfgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/dtmfgen.c
+END
+msspeex.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msspeex.c
+END
+winvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winvideo.c
+END
+winsnd3.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winsnd3.c
+END
+msconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msconf.c
+END
+dxfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/dxfilter.h
+END
+eventqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/eventqueue.c
+END
+kiss_fftr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/kiss_fftr.c
+END
+nowebcam.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/mediastreamer2/src/nowebcam.c
+END
+mire.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/mediastreamer2/src/mire.c
+END
+kiss_fftr.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/kiss_fftr.h
+END
+msjoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msjoin.c
+END
+rfc2429.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/rfc2429.h
+END
+nowebcam.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/nowebcam.h
+END
+void.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/mediastreamer2/src/void.c
+END
+msrtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msrtp.c
+END
+msvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msvideo.c
+END
+msresample.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msresample.c
+END
+pulseaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/pulseaudio.c
+END
+nowebcamCIF.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/mediastreamer2/src/nowebcamCIF.jpg
+END
+tee.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/mediastreamer2/src/tee.c
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/mediastreamer2/src/_kiss_fft_guts.h
+END
+msv4m.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msv4m.m
+END
+dxfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/dxfilter.cpp
+END
+chanadapt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/chanadapt.c
+END
+alaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/mediastreamer2/src/alaw.c
+END
+msfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msfilter.c
+END
+msfilerec_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msfilerec_win.c
+END
+extdisplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/extdisplay.c
+END
+winsndds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winsndds.cpp
+END
+speexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/speexec.c
+END
+sizeconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/sizeconv.c
+END
+rfc3984.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/rfc3984.c
+END
+winsnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winsnd.c
+END
+pasnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/mediastreamer2/src/pasnd.c
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/swscale.h
+END
+ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/mediastreamer2/src/ulaw.c
+END
+msfilerec.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msfilerec.c
+END
+itc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/mediastreamer2/src/itc.c
+END
+msticker.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msticker.c
+END
+winsnd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winsnd2.c
+END
+pixconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/pixconv.c
+END
+winsnd4.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winsnd4.c
+END
+msv4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msv4l2.c
+END
+h264dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/mediastreamer2/src/h264dec.c
+END
+ice.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/mediastreamer2/src/ice.c
+END
+equalizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/equalizer.c
+END
+msv4l.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msv4l.c
+END
+mtu.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/mediastreamer2/src/mtu.c
+END
+winvideo2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winvideo2.c
+END
+dsptools.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/dsptools.c
+END
+arts.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/mediastreamer2/src/arts.c
+END
+msfileplayer_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msfileplayer_win.c
+END
+sdlout.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/mediastreamer2/src/sdlout.c
+END
+winvideods.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/winvideods.c
+END
+audiostream.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/mediastreamer2/src/audiostream.c
+END
+vfw-missing.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/mediastreamer2/src/vfw-missing.h
+END
+drawdib-display.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/mediastreamer2/src/drawdib-display.c
+END
+alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/mediastreamer2/src/alsa.c
+END
+msandroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msandroid.cpp
+END
+theora.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/mediastreamer2/src/theora.c
+END
+videostream.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/mediastreamer2/src/videostream.c
+END
+msqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msqueue.c
+END
+gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/mediastreamer2/src/gsm.c
+END
+ffmpeg-priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/mediastreamer2/src/ffmpeg-priv.h
+END
+mscommon.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/mscommon.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/mediastreamer2/src/Makefile.am
+END
+msfileplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/mediastreamer2/src/msfileplayer.c
+END
+videoenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/videoenc.c
+END
+g711common.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/mediastreamer2/src/g711common.h
+END
+mswebcam.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/mswebcam.c
+END
+videoout.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/mediastreamer2/src/videoout.c
+END
+oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/mediastreamer2/src/oss.c
+END
+macsnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/mediastreamer2/src/macsnd.c
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32
+END
+bv32externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32externs.h
+END
+bv32ptdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32ptdec.c
+END
+bv32gainquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32gainquan.c
+END
+bv32coarse_pitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32coarse_pitch.c
+END
+bv32excquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32excquan.c
+END
+bv32strct.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32strct.h
+END
+bv32decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32decoder.c
+END
+bv32ptquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32ptquan.c
+END
+bv32fine_pitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32fine_pitch.c
+END
+bv32tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32tables.c
+END
+bv32lspdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32lspdec.c
+END
+bv32cnst.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32cnst.h
+END
+bv32plc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32plc.c
+END
+bv32encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32encoder.c
+END
+bv32lspquan.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32lspquan.c
+END
+bv32levelest.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32levelest.c
+END
+bv32gaindec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32gaindec.c
+END
+bv32excdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/codecs/broadvoice/src/floating/bv32/bv32excdec.c
+END

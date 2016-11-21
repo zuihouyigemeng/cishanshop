@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/codecs/ffmpeg-i386/bin
+END
+swscale-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/bin/swscale-0.dll
+END
+libmp3lame-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9/trunk/codecs/ffmpeg-i386/bin/libmp3lame-0.dll
+END
+avformat-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/bin/avformat-52.dll
+END
+avutil-50.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/bin/avutil-50.dll
+END
+avcodec-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/bin/avcodec-52.dll
+END
+avfilter-1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/bin/avfilter-1.dll
+END
+avdevice-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/bin/avdevice-52.dll
+END

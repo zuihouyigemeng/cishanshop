@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/linphone/gtk-glade
+END
+incall_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/incall_view.c
+END
+password.glade
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/password.glade
+END
+propertybox.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/propertybox.c
+END
+calllogs.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/calllogs.c
+END
+buddylookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/buddylookup.c
+END
+about.glade
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/about.glade
+END
+linphone.ico
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/linphone.ico
+END
+chatroom.glade
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/chatroom.glade
+END
+p2pwizard.glade
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/p2pwizard.glade
+END
+fonis.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/fonis.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/chat.c
+END
+setupwizard.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/setupwizard.c
+END
+linphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/linphone.h
+END
+update.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/update.c
+END
+loginframe.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/loginframe.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/main.c
+END
+logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/logging.c
+END
+linphone.iss
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/linphone.iss
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/Makefile.am
+END
+incoming_call.glade
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/incoming_call.glade
+END
+stock_people.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/stock_people.png
+END
+buddylookup.glade
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/buddylookup.glade
+END
+waiting.glade
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/waiting.glade
+END
+parameters.glade
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/parameters.glade
+END
+linphone.rc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/linphone.rc
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/utils.c
+END
+sip_account.glade
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/sip_account.glade
+END
+friendlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/friendlist.c
+END
+log.glade
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/log.glade
+END
+support.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/support.c
+END
+main.glade
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/main.glade
+END
+contact.glade
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/contact.glade
+END
+call_logs.glade
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/call_logs.glade
+END
+gtkrc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/gtk-glade/gtkrc
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/linphone/intl
+END
+explodename.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/explodename.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/intl/Makefile.in
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/linphone/intl/VERSION
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/intl/ChangeLog
+END
+xopen-msg.sed
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/xopen-msg.sed
+END
+finddomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/intl/finddomain.c
+END
+localealias.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/localealias.c
+END
+gettextP.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/intl/gettextP.h
+END
+l10nflist.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/intl/l10nflist.c
+END
+linux-msg.sed
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/linux-msg.sed
+END
+textdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/intl/textdomain.c
+END
+loadmsgcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/intl/loadmsgcat.c
+END
+libgettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/intl/libgettext.h
+END
+bindtextdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/bindtextdom.c
+END
+gettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/intl/gettext.c
+END
+intl-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/intl-compat.c
+END
+dgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/intl/dgettext.c
+END
+cat-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/intl/cat-compat.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/intl/gettext.h
+END
+dcgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/intl/dcgettext.c
+END
+hash-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/hash-string.h
+END
+po2tbl.sed.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/intl/po2tbl.sed.in
+END
+loadinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/intl/loadinfo.h
+END

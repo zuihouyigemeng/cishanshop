@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/osip/help/doxygen
+END
+ht2-parser.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/help/doxygen/ht2-parser.dox
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/osip/help/doxygen/Makefile.in
+END
+ht1-uri.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/osip/help/doxygen/ht1-uri.dox
+END
+ht0-initialize.dox
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/osip/help/doxygen/ht0-initialize.dox
+END
+DoxyFile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/osip/help/doxygen/DoxyFile
+END
+ht4-dialog.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/osip/help/doxygen/ht4-dialog.dox
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/osip/help/doxygen/Makefile.am
+END
+ht3-fsm.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/osip/help/doxygen/ht3-fsm.dox
+END
+ht5-sdp.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/osip/help/doxygen/ht5-sdp.dox
+END

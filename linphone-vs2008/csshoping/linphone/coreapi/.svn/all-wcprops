@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/trunk/linphone/coreapi
+END
+sal_eXosip2_presence.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/linphone/coreapi/sal_eXosip2_presence.c
+END
+sipsetup.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/sipsetup.c
+END
+general_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/linphone/coreapi/general_state.c
+END
+fonis.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/coreapi/fonis.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/coreapi/chat.c
+END
+authentication.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/linphone/coreapi/authentication.c
+END
+sal.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/linphone/coreapi/sal.c
+END
+offeranswer.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/coreapi/offeranswer.c
+END
+sipsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/sipsetup.h
+END
+linphonecore.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/linphone/coreapi/linphonecore.c
+END
+offeranswer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/coreapi/offeranswer.h
+END
+linphonecore_jni.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/linphone/coreapi/linphonecore_jni.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/linphone/coreapi/Makefile.am
+END
+sal_eXosip2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/coreapi/sal_eXosip2.c
+END
+linphonecore.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/linphone/coreapi/linphonecore.h
+END
+libsipua3.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/linphone/coreapi/libsipua3.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/coreapi/misc.c
+END
+sal_eXosip2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/coreapi/sal_eXosip2.h
+END
+sal_eXosip2_sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/linphone/coreapi/sal_eXosip2_sdp.c
+END
+enum.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/coreapi/enum.c
+END
+presence.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/presence.c
+END
+enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/linphone/coreapi/enum.h
+END
+callbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/linphone/coreapi/callbacks.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/linphone/coreapi/private.h
+END
+proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/linphone/coreapi/proxy.c
+END
+sdphandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/linphone/coreapi/sdphandler.c
+END
+siplogin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/siplogin.c
+END
+address.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/coreapi/address.c
+END
+sdphandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/linphone/coreapi/sdphandler.h
+END
+sip_sal.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/linphone/coreapi/sip_sal.h
+END
+lpconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/lpconfig.c
+END
+exevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/exevents.c
+END
+lpconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/lpconfig.h
+END
+exevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/linphone/coreapi/exevents.h
+END
+friend.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/linphone/coreapi/friend.c
+END

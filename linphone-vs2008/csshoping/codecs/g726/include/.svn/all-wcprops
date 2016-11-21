@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8/trunk/codecs/g726/include
+END
+bit_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/g726/include/bit_operations.h
+END
+spang711.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/codecs/g726/include/spang711.h
+END
+tgmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/g726/include/tgmath.h
+END
+g726.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/codecs/g726/include/g726.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/g726/include/unistd.h
+END
+telephony.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/codecs/g726/include/telephony.h
+END
+dc_restore.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/g726/include/dc_restore.h
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/codecs/g726/include/bitstream.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/codecs/g726/include/inttypes.h
+END

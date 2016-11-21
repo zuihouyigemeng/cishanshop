@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/mediastreamer2/include/mediastreamer2
+END
+msticker.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msticker.h
+END
+msinterfaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msinterfaces.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/Makefile.am
+END
+msqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msqueue.h
+END
+dtmfgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/dtmfgen.h
+END
+msfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msfilter.h
+END
+msextdisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msextdisplay.h
+END
+mseventqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/mseventqueue.h
+END
+mscommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/mscommon.h
+END
+mediastream.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/mediastreamer2/include/mediastreamer2/mediastream.h
+END
+msfileplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msfileplayer.h
+END
+mswebcam.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/mswebcam.h
+END
+msvideoout.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msvideoout.h
+END
+ice.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/ice.h
+END
+msequalizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msequalizer.h
+END
+allfilters.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/allfilters.h
+END
+rfc3984.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/rfc3984.h
+END
+msrtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msrtp.h
+END
+msv4l.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msv4l.h
+END
+msvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msvideo.h
+END
+msaudiomixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msaudiomixer.h
+END
+dsptools.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/dsptools.h
+END
+msvolume.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msvolume.h
+END
+msfilerec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msfilerec.h
+END
+mschanadapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/mschanadapter.h
+END
+waveheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/waveheader.h
+END
+mstee.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/mstee.h
+END
+mssndcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/mssndcard.h
+END
+msitc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/mediastreamer2/include/mediastreamer2/msitc.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/mediastreamer2/build/win32-novideo
+END
+alldescs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/mediastreamer2/build/win32-novideo/alldescs.h
+END
+mediastreamer2.def
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/trunk/mediastreamer2/build/win32-novideo/mediastreamer2.def
+END
+mediastreamer2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8/trunk/mediastreamer2/build/win32-novideo/mediastreamer2.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/mediastreamer2/build/win32-novideo/Makefile.am
+END
+mediastream.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/mediastreamer2/build/win32-novideo/mediastream.vcproj
+END

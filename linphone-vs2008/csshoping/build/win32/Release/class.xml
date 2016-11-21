@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE info-list>
+<info-list><spType><spTypeCode>0002</spTypeCode><spTypeName>蔬菜</spTypeName></spType><spType><spTypeCode>0003</spTypeCode><spTypeName>肉类</spTypeName></spType><spType><spTypeCode>0004</spTypeCode><spTypeName>水果</spTypeName></spType><spType><spTypeCode>0005</spTypeCode><spTypeName>谷类</spTypeName></spType><spType><spTypeCode>{101d0890-b691-4818-aebc-7ca1d4f2a7df}</spTypeCode><spTypeName>团购信息</spTypeName></spType></info-list>
+

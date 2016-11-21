@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/linphone/scripts
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/linphone/scripts/Makefile.am
+END
+builder-mingw.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/linphone/scripts/builder-mingw.mk
+END
+Portfile-devel.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/linphone/scripts/Portfile-devel.tmpl
+END
+Portfile.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/linphone/scripts/Portfile.tmpl
+END

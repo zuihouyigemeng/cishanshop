@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/osip/help
+END
+INSTALL.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/osip/help/INSTALL.bsd
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/osip/help/Makefile.in
+END
+INSTALL.linux
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/osip/help/INSTALL.linux
+END
+INSTALL.win32
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/osip/help/INSTALL.win32
+END
+INSTALL.unix
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/osip/help/INSTALL.unix
+END
+INSTALL.vxworks
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/osip/help/INSTALL.vxworks
+END
+INSTALL.linuxe
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/osip/help/INSTALL.linuxe
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/osip/help/Makefile.am
+END
+INSTALL.wince
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/osip/help/INSTALL.wince
+END

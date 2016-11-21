@@ -1,0 +1,20 @@
+<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>
+<root>
+	<terminal>
+		<tid>1</Dbid>
+		<tname>第一坐</tname>
+		<tsip>1000</tsip>
+	</terminal>
+	<terminal>
+		<tid>2</Dbid>
+		<tname>第二坐</tname>
+		<tsip>1001</tsip>
+	</terminal>
+	<terminal>
+		<tid>3</Dbid>
+		<tname>第二坐</tname>
+		<tsip>1002</tsip>
+	</terminal>	
+	
+</root>
+

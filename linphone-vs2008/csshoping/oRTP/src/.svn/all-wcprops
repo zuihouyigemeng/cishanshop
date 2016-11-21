@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/7/trunk/oRTP/src
+END
+rtpparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/oRTP/src/rtpparse.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/oRTP/src/utils.c
+END
+system
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/src/system
+END
+posixtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/oRTP/src/posixtimer.c
+END
+jitterctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/jitterctl.c
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/oRTP/src/utils.h
+END
+rtptimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/oRTP/src/rtptimer.c
+END
+jitterctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/jitterctl.h
+END
+rtpsession.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/oRTP/src/rtpsession.c
+END
+rtptimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/oRTP/src/rtptimer.h
+END
+rtpsession_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/oRTP/src/rtpsession_priv.h
+END
+scheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/scheduler.c
+END
+scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/scheduler.h
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/src/port.c
+END
+avprofile.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/avprofile.c
+END
+rtpsession_inet.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/oRTP/src/rtpsession_inet.c
+END
+str_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/str_utils.c
+END
+stun.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/src/stun.c
+END
+b64.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/oRTP/src/b64.c
+END
+sessionset.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/oRTP/src/sessionset.c
+END
+stun_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/oRTP/src/stun_udp.c
+END
+rtcpparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/rtcpparse.c
+END
+rtcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/src/rtcp.c
+END
+master
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/src/master
+END
+rtpsignaltable.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/oRTP/src/rtpsignaltable.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/oRTP/src/event.c
+END
+ortp.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/src/ortp.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/Makefile.am
+END
+srtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/oRTP/src/srtp.c
+END
+payloadtype.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/oRTP/src/payloadtype.c
+END
+ortp-config-win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/oRTP/src/ortp-config-win32.h
+END
+dll_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/oRTP/src/dll_entry.c
+END
+telephonyevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/oRTP/src/telephonyevents.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/lib
+END
+avformat-52.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/lib/avformat-52.lib
+END
+avutil-50.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/lib/avutil-50.lib
+END
+avcodec-52.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/lib/avcodec-52.lib
+END
+avdevice-52.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/lib/avdevice-52.lib
+END
+avfilter-1.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/lib/avfilter-1.lib
+END
+swscale-0.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/codecs/ffmpeg-i386/lib/swscale-0.lib
+END

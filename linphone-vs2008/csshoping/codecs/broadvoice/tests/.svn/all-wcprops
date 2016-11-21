@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests
+END
+bv32_tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/bv32_tests.c
+END
+broadvoice_tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/broadvoice_tests.c
+END
+regression_tests.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/regression_tests.sh.in
+END
+g192_bit_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/g192_bit_stream.h
+END
+bv16_tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/bv16_tests.c
+END
+bv32_fixed_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/bv32_fixed_tests.sh
+END
+bv16_fixed_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/bv16_fixed_tests.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/Makefile.am
+END
+bv32_floating_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/bv32_floating_tests.sh
+END
+bv16_floating_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/bv16_floating_tests.sh
+END
+g192_bit_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/g192_bit_stream.c
+END
+timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/codecs/broadvoice/tests/timing.h
+END

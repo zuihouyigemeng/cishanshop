@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/osip/include/osipparser2
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/Makefile.am
+END
+osip_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_headers.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/config.h
+END
+osip_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_list.h
+END
+osip_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_parser.h
+END
+osip_body.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_body.h
+END
+osip_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_uri.h
+END
+sdp_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/sdp_message.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/Makefile.in
+END
+osip_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_port.h
+END
+osip_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_message.h
+END
+osip_md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_md5.h
+END
+osip_const.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/osip/include/osipparser2/osip_const.h
+END

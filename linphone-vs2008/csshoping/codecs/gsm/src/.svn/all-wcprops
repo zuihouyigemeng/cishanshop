@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/codecs/gsm/src
+END
+long_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/codecs/gsm/src/long_term.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/codecs/gsm/src/debug.c
+END
+rpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/codecs/gsm/src/rpe.c
+END
+short_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/short_term.c
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/codecs/gsm/src/table.c
+END
+add.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/codecs/gsm/src/add.c
+END
+gsm_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_decode.c
+END
+toast.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/codecs/gsm/src/toast.c
+END
+toast_lin.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/codecs/gsm/src/toast_lin.c
+END
+toast_alaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/toast_alaw.c
+END
+gsm_implode.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_implode.c
+END
+gsm_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_destroy.c
+END
+gsm_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_print.c
+END
+gsm_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_encode.c
+END
+gsm_explode.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_explode.c
+END
+gsm_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_create.c
+END
+code.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/codecs/gsm/src/code.c
+END
+toast_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/codecs/gsm/src/toast_audio.c
+END
+gsm_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/gsm_option.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/codecs/gsm/src/lpc.c
+END
+toast_ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/toast_ulaw.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/codecs/gsm/src/decode.c
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/codecs/gsm/src/preprocess.c
+END

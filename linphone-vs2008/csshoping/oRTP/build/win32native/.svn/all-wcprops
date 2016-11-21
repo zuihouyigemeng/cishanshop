@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/oRTP/build/win32native
+END
+oRTP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/oRTP/build/win32native/oRTP.sln
+END
+ortp.def
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/oRTP/build/win32native/ortp.def
+END
+oRTP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/oRTP/build/win32native/oRTP.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/oRTP/build/win32native/Makefile.am
+END

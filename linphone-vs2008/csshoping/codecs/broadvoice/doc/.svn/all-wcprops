@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/codecs/broadvoice/doc
+END
+wrapper.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/doc/wrapper.xsl
+END
+broadvoice-doxygen
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/codecs/broadvoice/doc/broadvoice-doxygen
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/doc/Makefile.am
+END
+css.css
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/codecs/broadvoice/doc/css.css
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/codecs/broadvoice/doc/Makefile.in
+END

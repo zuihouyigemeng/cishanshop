@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2005/libspeex
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2005/libspeex/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2005/libspeex/Makefile.am
+END
+libspeex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2005/libspeex/libspeex.vcproj
+END
+libspeex.vcproj.8.00.old
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/codecs/speex/win32/VS2005/libspeex/libspeex.vcproj.8.00.old
+END

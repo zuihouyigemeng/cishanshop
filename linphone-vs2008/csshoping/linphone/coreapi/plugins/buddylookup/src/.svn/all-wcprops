@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/linphone/coreapi/plugins/buddylookup/src
+END
+lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/linphone/coreapi/plugins/buddylookup/src/lookup.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/linphone/coreapi/plugins/buddylookup/src/Makefile.am
+END

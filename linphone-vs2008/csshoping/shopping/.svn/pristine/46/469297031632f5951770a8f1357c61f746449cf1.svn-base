@@ -1,0 +1,136 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'myshopping.h'
+**
+** Created: Mon May 18 10:07:15 2015
+**      by: The Qt Meta Object Compiler version 62 (Qt 4.7.0)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "../../myshopping.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'myshopping.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 62
+#error "This file was generated using the moc from 4.7.0. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_MyShopping[] = {
+
+ // content:
+       5,       // revision
+       0,       // classname
+       0,    0, // classinfo
+      22,   14, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       0,       // signalCount
+
+ // slots: signature, parameters, type, tag, flags
+      12,   11,   11,   11, 0x0a,
+      29,   11,   11,   11, 0x0a,
+      43,   11,   11,   11, 0x0a,
+      59,   11,   11,   11, 0x0a,
+      73,   11,   11,   11, 0x0a,
+      94,   11,   11,   11, 0x0a,
+     119,   11,   11,   11, 0x0a,
+     143,   11,   11,   11, 0x0a,
+     164,   11,   11,   11, 0x0a,
+     188,   11,   11,   11, 0x0a,
+     212,   11,   11,   11, 0x0a,
+     247,  241,   11,   11, 0x0a,
+     277,  241,   11,   11, 0x0a,
+     310,  241,   11,   11, 0x0a,
+     341,  241,   11,   11, 0x0a,
+     388,  371,   11,   11, 0x0a,
+     431,  427,   11,   11, 0x0a,
+     449,   11,   11,   11, 0x0a,
+     473,   11,   11,   11, 0x0a,
+     505,  499,   11,   11, 0x0a,
+     527,   11,   11,   11, 0x0a,
+     540,   11,   11,   11, 0x0a,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_MyShopping[] = {
+    "MyShopping\0\0linponeIterate()\0updateGuest()\0"
+    "updateHistory()\0updateColor()\0"
+    "on_homeBtn_clicked()\0on_addGoodsBtn_clicked()\0"
+    "on_AppointBtn_clicked()\0on_sendBtn_clicked()\0"
+    "on_HistoryBtn_clicked()\0on_pushButton_clicked()\0"
+    "on_productQueryBtn_clicked()\0reply\0"
+    "replyFinished(QNetworkReply*)\0"
+    "replyHisFinished(QNetworkReply*)\0"
+    "replyGoodState(QNetworkReply*)\0"
+    "replyGoodDics(QNetworkReply*)\0"
+    "current,previous\0"
+    "changeCurrent(QModelIndex,QModelIndex)\0"
+    "str\0dealCall(QString)\0on_sipcallBtn_clicked()\0"
+    "on_siphungupBtn_clicked()\0index\0"
+    "conditionProcess(int)\0verMove(int)\0"
+    "horMove(int)\0"
+};
+
+const QMetaObject MyShopping::staticMetaObject = {
+    { &QWidget::staticMetaObject, qt_meta_stringdata_MyShopping,
+      qt_meta_data_MyShopping, 0 }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &MyShopping::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *MyShopping::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *MyShopping::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_MyShopping))
+        return static_cast<void*>(const_cast< MyShopping*>(this));
+    return QWidget::qt_metacast(_clname);
+}
+
+int MyShopping::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QWidget::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        switch (_id) {
+        case 0: linponeIterate(); break;
+        case 1: updateGuest(); break;
+        case 2: updateHistory(); break;
+        case 3: updateColor(); break;
+        case 4: on_homeBtn_clicked(); break;
+        case 5: on_addGoodsBtn_clicked(); break;
+        case 6: on_AppointBtn_clicked(); break;
+        case 7: on_sendBtn_clicked(); break;
+        case 8: on_HistoryBtn_clicked(); break;
+        case 9: on_pushButton_clicked(); break;
+        case 10: on_productQueryBtn_clicked(); break;
+        case 11: replyFinished((*reinterpret_cast< QNetworkReply*(*)>(_a[1]))); break;
+        case 12: replyHisFinished((*reinterpret_cast< QNetworkReply*(*)>(_a[1]))); break;
+        case 13: replyGoodState((*reinterpret_cast< QNetworkReply*(*)>(_a[1]))); break;
+        case 14: replyGoodDics((*reinterpret_cast< QNetworkReply*(*)>(_a[1]))); break;
+        case 15: changeCurrent((*reinterpret_cast< const QModelIndex(*)>(_a[1])),(*reinterpret_cast< const QModelIndex(*)>(_a[2]))); break;
+        case 16: dealCall((*reinterpret_cast< const QString(*)>(_a[1]))); break;
+        case 17: on_sipcallBtn_clicked(); break;
+        case 18: on_siphungupBtn_clicked(); break;
+        case 19: conditionProcess((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 20: verMove((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 21: horMove((*reinterpret_cast< int(*)>(_a[1]))); break;
+        default: ;
+        }
+        _id -= 22;
+    }
+    return _id;
+}
+QT_END_MOC_NAMESPACE

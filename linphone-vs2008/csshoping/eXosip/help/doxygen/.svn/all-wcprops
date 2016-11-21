@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen/Makefile.am
+END
+doxygen.dox.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen/doxygen.dox.in
+END
+ht2-registration.dox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen/ht2-registration.dox
+END
+ht1-callcontrol.dox
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen/ht1-callcontrol.dox
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen/Makefile.in
+END
+ht0-initialize.dox
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen/ht0-initialize.dox
+END
+DoxyFile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/eXosip/help/doxygen/DoxyFile
+END
